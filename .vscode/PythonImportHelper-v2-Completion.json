@@ -1,0 +1,3673 @@
+[
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "sqlalchemy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "engine_from_config",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "pool",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Numeric",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Boolean",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Boolean",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "and_",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "and_",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "fileConfig",
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "isExtraImport": true,
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
+        "isExtraImport": true,
+        "detail": "app.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
+        "isExtraImport": true,
+        "detail": "app.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
+        "isExtraImport": true,
+        "detail": "app.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
+        "isExtraImport": true,
+        "detail": "app.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
+        "isExtraImport": true,
+        "detail": "app.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
+        "isExtraImport": true,
+        "detail": "app.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
+        "isExtraImport": true,
+        "detail": "app.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
+        "isExtraImport": true,
+        "detail": "app.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
+        "isExtraImport": true,
+        "detail": "app.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
+        "isExtraImport": true,
+        "detail": "app.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
+        "isExtraImport": true,
+        "detail": "app.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
+        "isExtraImport": true,
+        "detail": "app.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
+        "isExtraImport": true,
+        "detail": "app.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
+        "isExtraImport": true,
+        "detail": "app.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
+        "isExtraImport": true,
+        "detail": "app.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
+        "isExtraImport": true,
+        "detail": "app.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
+        "isExtraImport": true,
+        "detail": "app.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
+        "isExtraImport": true,
+        "detail": "app.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.core.database",
+        "description": "app.core.database",
+        "isExtraImport": true,
+        "detail": "app.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "SettingsConfigDict",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "joinedload",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "joinedload",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "BackgroundTasks",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "BackgroundTasks",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Header",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserType",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserType",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserType",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserType",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserType",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserType",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserType",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserType",
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "isExtraImport": true,
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "enum",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "enum",
+        "description": "enum",
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy.sql",
+        "description": "sqlalchemy.sql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.sql",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy.sql",
+        "description": "sqlalchemy.sql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.sql",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy.sql",
+        "description": "sqlalchemy.sql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.sql",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy.sql",
+        "description": "sqlalchemy.sql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.sql",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.core.deps",
+        "description": "app.core.deps",
+        "isExtraImport": true,
+        "detail": "app.core.deps",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.core.deps",
+        "description": "app.core.deps",
+        "isExtraImport": true,
+        "detail": "app.core.deps",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.core.deps",
+        "description": "app.core.deps",
+        "isExtraImport": true,
+        "detail": "app.core.deps",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.core.deps",
+        "description": "app.core.deps",
+        "isExtraImport": true,
+        "detail": "app.core.deps",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.core.deps",
+        "description": "app.core.deps",
+        "isExtraImport": true,
+        "detail": "app.core.deps",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.core.deps",
+        "description": "app.core.deps",
+        "isExtraImport": true,
+        "detail": "app.core.deps",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.core.deps",
+        "description": "app.core.deps",
+        "isExtraImport": true,
+        "detail": "app.core.deps",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.core.deps",
+        "description": "app.core.deps",
+        "isExtraImport": true,
+        "detail": "app.core.deps",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "hash_password",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "DJProfile",
+        "importPath": "app.models.dj",
+        "description": "app.models.dj",
+        "isExtraImport": true,
+        "detail": "app.models.dj",
+        "documentation": {}
+    },
+    {
+        "label": "DJProfile",
+        "importPath": "app.models.dj",
+        "description": "app.models.dj",
+        "isExtraImport": true,
+        "detail": "app.models.dj",
+        "documentation": {}
+    },
+    {
+        "label": "DJProfile",
+        "importPath": "app.models.dj",
+        "description": "app.models.dj",
+        "isExtraImport": true,
+        "detail": "app.models.dj",
+        "documentation": {}
+    },
+    {
+        "label": "DJProfile",
+        "importPath": "app.models.dj",
+        "description": "app.models.dj",
+        "isExtraImport": true,
+        "detail": "app.models.dj",
+        "documentation": {}
+    },
+    {
+        "label": "DJProfile",
+        "importPath": "app.models.dj",
+        "description": "app.models.dj",
+        "isExtraImport": true,
+        "detail": "app.models.dj",
+        "documentation": {}
+    },
+    {
+        "label": "ClubProfile",
+        "importPath": "app.models.club",
+        "description": "app.models.club",
+        "isExtraImport": true,
+        "detail": "app.models.club",
+        "documentation": {}
+    },
+    {
+        "label": "ClubProfile",
+        "importPath": "app.models.club",
+        "description": "app.models.club",
+        "isExtraImport": true,
+        "detail": "app.models.club",
+        "documentation": {}
+    },
+    {
+        "label": "ClubProfile",
+        "importPath": "app.models.club",
+        "description": "app.models.club",
+        "isExtraImport": true,
+        "detail": "app.models.club",
+        "documentation": {}
+    },
+    {
+        "label": "ClubProfile",
+        "importPath": "app.models.club",
+        "description": "app.models.club",
+        "isExtraImport": true,
+        "detail": "app.models.club",
+        "documentation": {}
+    },
+    {
+        "label": "LoginRequest",
+        "importPath": "app.schemas.auth",
+        "description": "app.schemas.auth",
+        "isExtraImport": true,
+        "detail": "app.schemas.auth",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterRequest",
+        "importPath": "app.schemas.auth",
+        "description": "app.schemas.auth",
+        "isExtraImport": true,
+        "detail": "app.schemas.auth",
+        "documentation": {}
+    },
+    {
+        "label": "TokenResponse",
+        "importPath": "app.schemas.auth",
+        "description": "app.schemas.auth",
+        "isExtraImport": true,
+        "detail": "app.schemas.auth",
+        "documentation": {}
+    },
+    {
+        "label": "UserResponse",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserResponse",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserResponse",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "email",
+        "importPath": "app.services",
+        "description": "app.services",
+        "isExtraImport": true,
+        "detail": "app.services",
+        "documentation": {}
+    },
+    {
+        "label": "email",
+        "importPath": "app.services",
+        "description": "app.services",
+        "isExtraImport": true,
+        "detail": "app.services",
+        "documentation": {}
+    },
+    {
+        "label": "AvailabilityBlock",
+        "importPath": "app.models.availability",
+        "description": "app.models.availability",
+        "isExtraImport": true,
+        "detail": "app.models.availability",
+        "documentation": {}
+    },
+    {
+        "label": "AvailabilityBlockType",
+        "importPath": "app.models.availability",
+        "description": "app.models.availability",
+        "isExtraImport": true,
+        "detail": "app.models.availability",
+        "documentation": {}
+    },
+    {
+        "label": "AvailabilityBlock",
+        "importPath": "app.models.availability",
+        "description": "app.models.availability",
+        "isExtraImport": true,
+        "detail": "app.models.availability",
+        "documentation": {}
+    },
+    {
+        "label": "AvailabilityBlockType",
+        "importPath": "app.models.availability",
+        "description": "app.models.availability",
+        "isExtraImport": true,
+        "detail": "app.models.availability",
+        "documentation": {}
+    },
+    {
+        "label": "AvailabilityBlockType",
+        "importPath": "app.models.availability",
+        "description": "app.models.availability",
+        "isExtraImport": true,
+        "detail": "app.models.availability",
+        "documentation": {}
+    },
+    {
+        "label": "AvailabilityBlockCreateRequest",
+        "importPath": "app.schemas.availability",
+        "description": "app.schemas.availability",
+        "isExtraImport": true,
+        "detail": "app.schemas.availability",
+        "documentation": {}
+    },
+    {
+        "label": "AvailabilityBlockResponse",
+        "importPath": "app.schemas.availability",
+        "description": "app.schemas.availability",
+        "isExtraImport": true,
+        "detail": "app.schemas.availability",
+        "documentation": {}
+    },
+    {
+        "label": "AvailabilityBlockUpdateRequest",
+        "importPath": "app.schemas.availability",
+        "description": "app.schemas.availability",
+        "isExtraImport": true,
+        "detail": "app.schemas.availability",
+        "documentation": {}
+    },
+    {
+        "label": "DJAvailabilityQueryResponse",
+        "importPath": "app.schemas.availability",
+        "description": "app.schemas.availability",
+        "isExtraImport": true,
+        "detail": "app.schemas.availability",
+        "documentation": {}
+    },
+    {
+        "label": "Booking",
+        "importPath": "app.models.booking",
+        "description": "app.models.booking",
+        "isExtraImport": true,
+        "detail": "app.models.booking",
+        "documentation": {}
+    },
+    {
+        "label": "BookingStatus",
+        "importPath": "app.models.booking",
+        "description": "app.models.booking",
+        "isExtraImport": true,
+        "detail": "app.models.booking",
+        "documentation": {}
+    },
+    {
+        "label": "Booking",
+        "importPath": "app.models.booking",
+        "description": "app.models.booking",
+        "isExtraImport": true,
+        "detail": "app.models.booking",
+        "documentation": {}
+    },
+    {
+        "label": "BookingStatus",
+        "importPath": "app.models.booking",
+        "description": "app.models.booking",
+        "isExtraImport": true,
+        "detail": "app.models.booking",
+        "documentation": {}
+    },
+    {
+        "label": "BookingStatusHistory",
+        "importPath": "app.models.booking_status_history",
+        "description": "app.models.booking_status_history",
+        "isExtraImport": true,
+        "detail": "app.models.booking_status_history",
+        "documentation": {}
+    },
+    {
+        "label": "BookingCreateRequest",
+        "importPath": "app.schemas.booking",
+        "description": "app.schemas.booking",
+        "isExtraImport": true,
+        "detail": "app.schemas.booking",
+        "documentation": {}
+    },
+    {
+        "label": "BookingResponse",
+        "importPath": "app.schemas.booking",
+        "description": "app.schemas.booking",
+        "isExtraImport": true,
+        "detail": "app.schemas.booking",
+        "documentation": {}
+    },
+    {
+        "label": "BookingStatusHistoryOut",
+        "importPath": "app.schemas.booking_status_history",
+        "description": "app.schemas.booking_status_history",
+        "isExtraImport": true,
+        "detail": "app.schemas.booking_status_history",
+        "documentation": {}
+    },
+    {
+        "label": "BookingStatusUpdate",
+        "importPath": "app.schemas.booking_status_history",
+        "description": "app.schemas.booking_status_history",
+        "isExtraImport": true,
+        "detail": "app.schemas.booking_status_history",
+        "documentation": {}
+    },
+    {
+        "label": "BookingMessage",
+        "importPath": "app.models.booking_message",
+        "description": "app.models.booking_message",
+        "isExtraImport": true,
+        "detail": "app.models.booking_message",
+        "documentation": {}
+    },
+    {
+        "label": "BookingMessageCreate",
+        "importPath": "app.schemas.booking_message",
+        "description": "app.schemas.booking_message",
+        "isExtraImport": true,
+        "detail": "app.schemas.booking_message",
+        "documentation": {}
+    },
+    {
+        "label": "BookingMessageOut",
+        "importPath": "app.schemas.booking_message",
+        "description": "app.schemas.booking_message",
+        "isExtraImport": true,
+        "detail": "app.schemas.booking_message",
+        "documentation": {}
+    },
+    {
+        "label": "ClubCreateRequest",
+        "importPath": "app.schemas.club",
+        "description": "app.schemas.club",
+        "isExtraImport": true,
+        "detail": "app.schemas.club",
+        "documentation": {}
+    },
+    {
+        "label": "ClubResponse",
+        "importPath": "app.schemas.club",
+        "description": "app.schemas.club",
+        "isExtraImport": true,
+        "detail": "app.schemas.club",
+        "documentation": {}
+    },
+    {
+        "label": "DJCreateRequest",
+        "importPath": "app.schemas.dj",
+        "description": "app.schemas.dj",
+        "isExtraImport": true,
+        "detail": "app.schemas.dj",
+        "documentation": {}
+    },
+    {
+        "label": "DJResponse",
+        "importPath": "app.schemas.dj",
+        "description": "app.schemas.dj",
+        "isExtraImport": true,
+        "detail": "app.schemas.dj",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "stripe",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "stripe",
+        "description": "stripe",
+        "detail": "stripe",
+        "documentation": {}
+    },
+    {
+        "label": "Subscription",
+        "importPath": "app.models.subscription",
+        "description": "app.models.subscription",
+        "isExtraImport": true,
+        "detail": "app.models.subscription",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionStatus",
+        "importPath": "app.models.subscription",
+        "description": "app.models.subscription",
+        "isExtraImport": true,
+        "detail": "app.models.subscription",
+        "documentation": {}
+    },
+    {
+        "label": "PlanType",
+        "importPath": "app.models.subscription",
+        "description": "app.models.subscription",
+        "isExtraImport": true,
+        "detail": "app.models.subscription",
+        "documentation": {}
+    },
+    {
+        "label": "PlanType",
+        "importPath": "app.models.subscription",
+        "description": "app.models.subscription",
+        "isExtraImport": true,
+        "detail": "app.models.subscription",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionStatus",
+        "importPath": "app.models.subscription",
+        "description": "app.models.subscription",
+        "isExtraImport": true,
+        "detail": "app.models.subscription",
+        "documentation": {}
+    },
+    {
+        "label": "CheckoutSessionOut",
+        "importPath": "app.schemas.subscription",
+        "description": "app.schemas.subscription",
+        "isExtraImport": true,
+        "detail": "app.schemas.subscription",
+        "documentation": {}
+    },
+    {
+        "label": "PortalSessionOut",
+        "importPath": "app.schemas.subscription",
+        "description": "app.schemas.subscription",
+        "isExtraImport": true,
+        "detail": "app.schemas.subscription",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionOut",
+        "importPath": "app.schemas.subscription",
+        "description": "app.schemas.subscription",
+        "isExtraImport": true,
+        "detail": "app.schemas.subscription",
+        "documentation": {}
+    },
+    {
+        "label": "io",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "io",
+        "description": "io",
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Decimal",
+        "importPath": "decimal",
+        "description": "decimal",
+        "isExtraImport": true,
+        "detail": "decimal",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "StaticFiles",
+        "importPath": "fastapi.staticfiles",
+        "description": "fastapi.staticfiles",
+        "isExtraImport": true,
+        "detail": "fastapi.staticfiles",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "app.routes.auth",
+        "description": "app.routes.auth",
+        "isExtraImport": true,
+        "detail": "app.routes.auth",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "app.routes.djs",
+        "description": "app.routes.djs",
+        "isExtraImport": true,
+        "detail": "app.routes.djs",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "app.routes.health",
+        "description": "app.routes.health",
+        "isExtraImport": true,
+        "detail": "app.routes.health",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "app.routes.booking",
+        "description": "app.routes.booking",
+        "isExtraImport": true,
+        "detail": "app.routes.booking",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "app.routes.club",
+        "description": "app.routes.club",
+        "isExtraImport": true,
+        "detail": "app.routes.club",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "app.routes.availability",
+        "description": "app.routes.availability",
+        "isExtraImport": true,
+        "detail": "app.routes.availability",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "app.routes.users",
+        "description": "app.routes.users",
+        "isExtraImport": true,
+        "detail": "app.routes.users",
+        "documentation": {}
+    },
+    {
+        "label": "booking_message",
+        "importPath": "app.routes",
+        "description": "app.routes",
+        "isExtraImport": true,
+        "detail": "app.routes",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "app.routes.stripe_routes",
+        "description": "app.routes.stripe_routes",
+        "isExtraImport": true,
+        "detail": "app.routes.stripe_routes",
+        "documentation": {}
+    },
+    {
+        "label": "uvicorn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uvicorn",
+        "description": "uvicorn",
+        "detail": "uvicorn",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "backend.alembic.versions.1bd9a97bb41c_add_booking_messages",
+        "description": "backend.alembic.versions.1bd9a97bb41c_add_booking_messages",
+        "peekOfCode": "def upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('booking_messages',\n    sa.Column('id', sa.String(), nullable=False),\n    sa.Column('booking_id', sa.String(), nullable=False),\n    sa.Column('sender_user_id', sa.String(), nullable=False),\n    sa.Column('message', sa.Text(), nullable=False),\n    sa.Column('created_at', sa.DateTime(timezone=True), server_default=sa.text('now()'), nullable=False),\n    sa.ForeignKeyConstraint(['booking_id'], ['bookings.id'], ondelete='CASCADE'),\n    sa.ForeignKeyConstraint(['sender_user_id'], ['users.id'], ondelete='CASCADE'),",
+        "detail": "backend.alembic.versions.1bd9a97bb41c_add_booking_messages",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "backend.alembic.versions.1bd9a97bb41c_add_booking_messages",
+        "description": "backend.alembic.versions.1bd9a97bb41c_add_booking_messages",
+        "peekOfCode": "def downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_index(op.f('ix_booking_messages_sender_user_id'), table_name='booking_messages')\n    op.drop_index(op.f('ix_booking_messages_booking_id'), table_name='booking_messages')\n    op.drop_table('booking_messages')\n    # ### end Alembic commands ###",
+        "detail": "backend.alembic.versions.1bd9a97bb41c_add_booking_messages",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "backend.alembic.versions.2a37754db766_add_availability_blocks",
+        "description": "backend.alembic.versions.2a37754db766_add_availability_blocks",
+        "peekOfCode": "def upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('availability_blocks',\n    sa.Column('id', sa.String(), nullable=False),\n    sa.Column('dj_id', sa.String(), nullable=False),\n    sa.Column('start_time', sa.DateTime(), nullable=False),\n    sa.Column('end_time', sa.DateTime(), nullable=False),\n    sa.Column('block_type', sa.Enum('MANUAL', 'BOOKING', 'GOOGLE_CALENDAR', name='availabilityblocktype'), nullable=False),\n    sa.Column('source_booking_id', sa.String(), nullable=True),\n    sa.Column('title', sa.String(length=180), nullable=True),",
+        "detail": "backend.alembic.versions.2a37754db766_add_availability_blocks",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "backend.alembic.versions.2a37754db766_add_availability_blocks",
+        "description": "backend.alembic.versions.2a37754db766_add_availability_blocks",
+        "peekOfCode": "def downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_index(op.f('ix_availability_blocks_start_time'), table_name='availability_blocks')\n    op.drop_index(op.f('ix_availability_blocks_end_time'), table_name='availability_blocks')\n    op.drop_index(op.f('ix_availability_blocks_dj_id'), table_name='availability_blocks')\n    op.drop_table('availability_blocks')\n    # ### end Alembic commands ###",
+        "detail": "backend.alembic.versions.2a37754db766_add_availability_blocks",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "backend.alembic.versions.3c8e2f1a9d05_add_booking_status_history",
+        "description": "backend.alembic.versions.3c8e2f1a9d05_add_booking_status_history",
+        "peekOfCode": "def upgrade() -> None:\n    op.create_table(\n        'booking_status_history',\n        sa.Column('id', sa.String(), nullable=False),\n        sa.Column('booking_id', sa.String(), nullable=False),\n        sa.Column('from_status', sa.String(), nullable=True),\n        sa.Column('to_status', sa.String(), nullable=False),\n        sa.Column('changed_by_user_id', sa.String(), nullable=False),\n        sa.Column('reason', sa.Text(), nullable=True),\n        sa.Column(",
+        "detail": "backend.alembic.versions.3c8e2f1a9d05_add_booking_status_history",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "backend.alembic.versions.3c8e2f1a9d05_add_booking_status_history",
+        "description": "backend.alembic.versions.3c8e2f1a9d05_add_booking_status_history",
+        "peekOfCode": "def downgrade() -> None:\n    op.drop_index(\n        op.f('ix_booking_status_history_changed_by_user_id'),\n        table_name='booking_status_history',\n    )\n    op.drop_index(\n        op.f('ix_booking_status_history_booking_id'),\n        table_name='booking_status_history',\n    )\n    op.drop_table('booking_status_history')",
+        "detail": "backend.alembic.versions.3c8e2f1a9d05_add_booking_status_history",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "backend.alembic.versions.4f7a1b2c3d8e_add_subscriptions",
+        "description": "backend.alembic.versions.4f7a1b2c3d8e_add_subscriptions",
+        "peekOfCode": "def upgrade() -> None:\n    op.create_table(\n        'subscriptions',\n        sa.Column('id', sa.String(), nullable=False),\n        sa.Column('user_id', sa.String(), nullable=False),\n        sa.Column('plan', sa.Enum('DJ_FREE', 'DJ_PRO', 'CLUB_FREE', 'CLUB_PRO', name='plantype'), nullable=False),\n        sa.Column('status', sa.Enum('TRIALING', 'ACTIVE', 'PAST_DUE', 'CANCELED', 'EXPIRED', name='subscriptionstatus'), nullable=False),\n        sa.Column('stripe_customer_id', sa.String(), nullable=True),\n        sa.Column('stripe_subscription_id', sa.String(), nullable=True),\n        sa.Column('stripe_price_id', sa.String(), nullable=True),",
+        "detail": "backend.alembic.versions.4f7a1b2c3d8e_add_subscriptions",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "backend.alembic.versions.4f7a1b2c3d8e_add_subscriptions",
+        "description": "backend.alembic.versions.4f7a1b2c3d8e_add_subscriptions",
+        "peekOfCode": "def downgrade() -> None:\n    op.drop_index('ix_subscriptions_user_id', table_name='subscriptions')\n    op.drop_table('subscriptions')\n    op.execute(\"DROP TYPE IF EXISTS plantype\")\n    op.execute(\"DROP TYPE IF EXISTS subscriptionstatus\")",
+        "detail": "backend.alembic.versions.4f7a1b2c3d8e_add_subscriptions",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "backend.alembic.versions.a039e36fa9f2_initial_schema",
+        "description": "backend.alembic.versions.a039e36fa9f2_initial_schema",
+        "peekOfCode": "def upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('users',\n    sa.Column('id', sa.String(), nullable=False),\n    sa.Column('name', sa.String(length=120), nullable=False),\n    sa.Column('email', sa.String(length=255), nullable=False),\n    sa.Column('password_hash', sa.String(length=255), nullable=False),\n    sa.Column('user_type', sa.Enum('FAN', 'DJ', 'CLUB', name='usertype'), nullable=False),\n    sa.Column('city', sa.String(length=120), nullable=True),\n    sa.Column('state', sa.String(length=120), nullable=True),",
+        "detail": "backend.alembic.versions.a039e36fa9f2_initial_schema",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "backend.alembic.versions.a039e36fa9f2_initial_schema",
+        "description": "backend.alembic.versions.a039e36fa9f2_initial_schema",
+        "peekOfCode": "def downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('bookings')\n    op.drop_index(op.f('ix_dj_profiles_stage_name'), table_name='dj_profiles')\n    op.drop_table('dj_profiles')\n    op.drop_index(op.f('ix_club_profiles_club_name'), table_name='club_profiles')\n    op.drop_table('club_profiles')\n    op.drop_index(op.f('ix_users_email'), table_name='users')\n    op.drop_table('users')\n    # ### end Alembic commands ###",
+        "detail": "backend.alembic.versions.a039e36fa9f2_initial_schema",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_offline",
+        "kind": 2,
+        "importPath": "backend.alembic.env",
+        "description": "backend.alembic.env",
+        "peekOfCode": "def run_migrations_offline() -> None:\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation\n    we don't even need a DBAPI to be available.\n    Calls to context.execute() here emit the given string to the\n    script output.\n    \"\"\"\n    url = config.get_main_option(\"sqlalchemy.url\")",
+        "detail": "backend.alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_online",
+        "kind": 2,
+        "importPath": "backend.alembic.env",
+        "description": "backend.alembic.env",
+        "peekOfCode": "def run_migrations_online() -> None:\n    \"\"\"Run migrations in 'online' mode.\n    In this scenario we need to create an Engine\n    and associate a connection with the context.\n    \"\"\"\n    connectable = engine_from_config(\n        config.get_section(config.config_ini_section, {}),\n        prefix=\"sqlalchemy.\",\n        poolclass=pool.NullPool,\n    )",
+        "detail": "backend.alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "backend.alembic.env",
+        "description": "backend.alembic.env",
+        "peekOfCode": "config = context.config\n# Interpret the config file for Python logging.\n# This line sets up loggers basically.\nif config.config_file_name is not None:\n    fileConfig(config.config_file_name)\n# add your model's MetaData object here\n# for 'autogenerate' support\n# from myapp import mymodel\n# target_metadata = mymodel.Base.metadata\ntarget_metadata = Base.metadata",
+        "detail": "backend.alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "target_metadata",
+        "kind": 5,
+        "importPath": "backend.alembic.env",
+        "description": "backend.alembic.env",
+        "peekOfCode": "target_metadata = Base.metadata\n# other values from the config, defined by the needs of env.py,\n# can be acquired:\n# my_important_option = config.get_main_option(\"my_important_option\")\n# ... etc.\nconfig.set_main_option(\"sqlalchemy.url\", settings.DATABASE_URL)\ndef run_migrations_offline() -> None:\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable",
+        "detail": "backend.alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "backend.app.core.config",
+        "description": "backend.app.core.config",
+        "peekOfCode": "class Settings(BaseSettings):\n    APP_NAME: str = \"Gig Platform API\"\n    APP_ENV: str = \"development\"\n    APP_DEBUG: bool = True\n    SECRET_KEY: str\n    ACCESS_TOKEN_EXPIRE_MINUTES: int = 10080\n    DATABASE_URL: str\n    FRONTEND_URL: str = \"http://localhost:3000\"\n    # URL pública do backend (usada para montar URLs de arquivos)\n    # Ex local: http://localhost:8001",
+        "detail": "backend.app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "backend.app.core.config",
+        "description": "backend.app.core.config",
+        "peekOfCode": "settings = Settings()",
+        "detail": "backend.app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "backend.app.core.database",
+        "description": "backend.app.core.database",
+        "peekOfCode": "def get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "backend.app.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "backend.app.core.database",
+        "description": "backend.app.core.database",
+        "peekOfCode": "engine = create_engine(\n    settings.DATABASE_URL,\n    pool_pre_ping=True,\n)\nSessionLocal = sessionmaker(\n    autocommit=False,\n    autoflush=False,\n    bind=engine,\n)\nBase = declarative_base()",
+        "detail": "backend.app.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "backend.app.core.database",
+        "description": "backend.app.core.database",
+        "peekOfCode": "SessionLocal = sessionmaker(\n    autocommit=False,\n    autoflush=False,\n    bind=engine,\n)\nBase = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db",
+        "detail": "backend.app.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "backend.app.core.database",
+        "description": "backend.app.core.database",
+        "peekOfCode": "Base = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "backend.app.core.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "kind": 2,
+        "importPath": "backend.app.core.deps",
+        "description": "backend.app.core.deps",
+        "peekOfCode": "def get_current_user(\n    token: str = Depends(oauth2_scheme),\n    db: Session = Depends(get_db),\n) -> User:\n    credentials_exception = HTTPException(\n        status_code=status.HTTP_401_UNAUTHORIZED,\n        detail=\"Não autenticado\",\n        headers={\"WWW-Authenticate\": \"Bearer\"},\n    )\n    try:",
+        "detail": "backend.app.core.deps",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme",
+        "kind": 5,
+        "importPath": "backend.app.core.deps",
+        "description": "backend.app.core.deps",
+        "peekOfCode": "oauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"/auth/login\")\nALGORITHM = \"HS256\"\ndef get_current_user(\n    token: str = Depends(oauth2_scheme),\n    db: Session = Depends(get_db),\n) -> User:\n    credentials_exception = HTTPException(\n        status_code=status.HTTP_401_UNAUTHORIZED,\n        detail=\"Não autenticado\",\n        headers={\"WWW-Authenticate\": \"Bearer\"},",
+        "detail": "backend.app.core.deps",
+        "documentation": {}
+    },
+    {
+        "label": "ALGORITHM",
+        "kind": 5,
+        "importPath": "backend.app.core.deps",
+        "description": "backend.app.core.deps",
+        "peekOfCode": "ALGORITHM = \"HS256\"\ndef get_current_user(\n    token: str = Depends(oauth2_scheme),\n    db: Session = Depends(get_db),\n) -> User:\n    credentials_exception = HTTPException(\n        status_code=status.HTTP_401_UNAUTHORIZED,\n        detail=\"Não autenticado\",\n        headers={\"WWW-Authenticate\": \"Bearer\"},\n    )",
+        "detail": "backend.app.core.deps",
+        "documentation": {}
+    },
+    {
+        "label": "hash_password",
+        "kind": 2,
+        "importPath": "backend.app.core.security",
+        "description": "backend.app.core.security",
+        "peekOfCode": "def hash_password(password: str) -> str:\n    return pwd_context.hash(_prepare_password(password))\ndef verify_password(password: str, hashed_password: str) -> bool:\n    return pwd_context.verify(_prepare_password(password), hashed_password)\ndef create_access_token(subject: str | Any, expires_delta: timedelta | None = None) -> str:\n    expire = datetime.now(timezone.utc) + (\n        expires_delta or timedelta(minutes=settings.ACCESS_TOKEN_EXPIRE_MINUTES)\n    )\n    to_encode = {\n        \"sub\": str(subject),",
+        "detail": "backend.app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "kind": 2,
+        "importPath": "backend.app.core.security",
+        "description": "backend.app.core.security",
+        "peekOfCode": "def verify_password(password: str, hashed_password: str) -> bool:\n    return pwd_context.verify(_prepare_password(password), hashed_password)\ndef create_access_token(subject: str | Any, expires_delta: timedelta | None = None) -> str:\n    expire = datetime.now(timezone.utc) + (\n        expires_delta or timedelta(minutes=settings.ACCESS_TOKEN_EXPIRE_MINUTES)\n    )\n    to_encode = {\n        \"sub\": str(subject),\n        \"exp\": expire,\n    }",
+        "detail": "backend.app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "kind": 2,
+        "importPath": "backend.app.core.security",
+        "description": "backend.app.core.security",
+        "peekOfCode": "def create_access_token(subject: str | Any, expires_delta: timedelta | None = None) -> str:\n    expire = datetime.now(timezone.utc) + (\n        expires_delta or timedelta(minutes=settings.ACCESS_TOKEN_EXPIRE_MINUTES)\n    )\n    to_encode = {\n        \"sub\": str(subject),\n        \"exp\": expire,\n    }\n    return jwt.encode(to_encode, settings.SECRET_KEY, algorithm=ALGORITHM)",
+        "detail": "backend.app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "ALGORITHM",
+        "kind": 5,
+        "importPath": "backend.app.core.security",
+        "description": "backend.app.core.security",
+        "peekOfCode": "ALGORITHM = \"HS256\"\npwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\ndef _prepare_password(password: str) -> str:\n    \"\"\"\n    Bcrypt tem limite de 72 bytes. Para senhas longas, fazemos um\n    pré-hash com SHA-256 (hex = 64 chars, sempre dentro do limite).\n    \"\"\"\n    encoded = password.encode(\"utf-8\")\n    if len(encoded) > 72:\n        return hashlib.sha256(encoded).hexdigest()",
+        "detail": "backend.app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "kind": 5,
+        "importPath": "backend.app.core.security",
+        "description": "backend.app.core.security",
+        "peekOfCode": "pwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\ndef _prepare_password(password: str) -> str:\n    \"\"\"\n    Bcrypt tem limite de 72 bytes. Para senhas longas, fazemos um\n    pré-hash com SHA-256 (hex = 64 chars, sempre dentro do limite).\n    \"\"\"\n    encoded = password.encode(\"utf-8\")\n    if len(encoded) > 72:\n        return hashlib.sha256(encoded).hexdigest()\n    return password",
+        "detail": "backend.app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "AvailabilityBlockType",
+        "kind": 6,
+        "importPath": "backend.app.models.availability",
+        "description": "backend.app.models.availability",
+        "peekOfCode": "class AvailabilityBlockType(str, enum.Enum):\n    MANUAL = \"MANUAL\"\n    BOOKING = \"BOOKING\"\n    GOOGLE_CALENDAR = \"GOOGLE_CALENDAR\"\nclass AvailabilityBlock(Base):\n    __tablename__ = \"availability_blocks\"\n    id: Mapped[str] = mapped_column(String, primary_key=True, default=lambda: str(uuid.uuid4()))\n    dj_id: Mapped[str] = mapped_column(String, ForeignKey(\"dj_profiles.id\"), nullable=False, index=True)\n    start_time: Mapped[datetime] = mapped_column(DateTime, nullable=False, index=True)\n    end_time: Mapped[datetime] = mapped_column(DateTime, nullable=False, index=True)",
+        "detail": "backend.app.models.availability",
+        "documentation": {}
+    },
+    {
+        "label": "AvailabilityBlock",
+        "kind": 6,
+        "importPath": "backend.app.models.availability",
+        "description": "backend.app.models.availability",
+        "peekOfCode": "class AvailabilityBlock(Base):\n    __tablename__ = \"availability_blocks\"\n    id: Mapped[str] = mapped_column(String, primary_key=True, default=lambda: str(uuid.uuid4()))\n    dj_id: Mapped[str] = mapped_column(String, ForeignKey(\"dj_profiles.id\"), nullable=False, index=True)\n    start_time: Mapped[datetime] = mapped_column(DateTime, nullable=False, index=True)\n    end_time: Mapped[datetime] = mapped_column(DateTime, nullable=False, index=True)\n    block_type: Mapped[AvailabilityBlockType] = mapped_column(\n        Enum(AvailabilityBlockType),\n        nullable=False,\n        default=AvailabilityBlockType.MANUAL,",
+        "detail": "backend.app.models.availability",
+        "documentation": {}
+    },
+    {
+        "label": "BookingStatus",
+        "kind": 6,
+        "importPath": "backend.app.models.booking",
+        "description": "backend.app.models.booking",
+        "peekOfCode": "class BookingStatus(str, enum.Enum):\n    PROPOSTA = \"PROPOSTA\"\n    NEGOCIANDO = \"NEGOCIANDO\"\n    APROVADO = \"APROVADO\"\n    RECUSADO = \"RECUSADO\"\n    CANCELADO = \"CANCELADO\"\nclass Booking(Base):\n    __tablename__ = \"bookings\"\n    id: Mapped[str] = mapped_column(String, primary_key=True, default=lambda: str(uuid.uuid4()))\n    dj_id: Mapped[str] = mapped_column(String, ForeignKey(\"dj_profiles.id\"), nullable=False)",
+        "detail": "backend.app.models.booking",
+        "documentation": {}
+    },
+    {
+        "label": "Booking",
+        "kind": 6,
+        "importPath": "backend.app.models.booking",
+        "description": "backend.app.models.booking",
+        "peekOfCode": "class Booking(Base):\n    __tablename__ = \"bookings\"\n    id: Mapped[str] = mapped_column(String, primary_key=True, default=lambda: str(uuid.uuid4()))\n    dj_id: Mapped[str] = mapped_column(String, ForeignKey(\"dj_profiles.id\"), nullable=False)\n    club_id: Mapped[str] = mapped_column(String, ForeignKey(\"club_profiles.id\"), nullable=False)\n    event_name: Mapped[str] = mapped_column(String(180), nullable=False)\n    event_date: Mapped[datetime] = mapped_column(DateTime, nullable=False)\n    fee_amount: Mapped[float | None] = mapped_column(Numeric(10, 2), nullable=True)\n    start_time: Mapped[datetime | None] = mapped_column(DateTime, nullable=True)\n    end_time: Mapped[datetime | None] = mapped_column(DateTime, nullable=True)",
+        "detail": "backend.app.models.booking",
+        "documentation": {}
+    },
+    {
+        "label": "BookingMessage",
+        "kind": 6,
+        "importPath": "backend.app.models.booking_message copy",
+        "description": "backend.app.models.booking_message copy",
+        "peekOfCode": "class BookingMessage(Base):\n    __tablename__ = \"booking_messages\"\n    id = Column(String, primary_key=True, default=generate_uuid)\n    booking_id = Column(String, ForeignKey(\"bookings.id\", ondelete=\"CASCADE\"), nullable=False, index=True)\n    sender_user_id = Column(String, ForeignKey(\"users.id\", ondelete=\"CASCADE\"), nullable=False, index=True)\n    message = Column(Text, nullable=False)\n    created_at = Column(DateTime(timezone=True), server_default=func.now(), nullable=False)",
+        "detail": "backend.app.models.booking_message copy",
+        "documentation": {}
+    },
+    {
+        "label": "generate_uuid",
+        "kind": 2,
+        "importPath": "backend.app.models.booking_message copy",
+        "description": "backend.app.models.booking_message copy",
+        "peekOfCode": "def generate_uuid():\n    return str(uuid.uuid4())\nclass BookingMessage(Base):\n    __tablename__ = \"booking_messages\"\n    id = Column(String, primary_key=True, default=generate_uuid)\n    booking_id = Column(String, ForeignKey(\"bookings.id\", ondelete=\"CASCADE\"), nullable=False, index=True)\n    sender_user_id = Column(String, ForeignKey(\"users.id\", ondelete=\"CASCADE\"), nullable=False, index=True)\n    message = Column(Text, nullable=False)\n    created_at = Column(DateTime(timezone=True), server_default=func.now(), nullable=False)",
+        "detail": "backend.app.models.booking_message copy",
+        "documentation": {}
+    },
+    {
+        "label": "BookingMessage",
+        "kind": 6,
+        "importPath": "backend.app.models.booking_message",
+        "description": "backend.app.models.booking_message",
+        "peekOfCode": "class BookingMessage(Base):\n    __tablename__ = \"booking_messages\"\n    id = Column(String, primary_key=True, default=generate_uuid)\n    booking_id = Column(String, ForeignKey(\"bookings.id\", ondelete=\"CASCADE\"), nullable=False, index=True)\n    sender_user_id = Column(String, ForeignKey(\"users.id\", ondelete=\"CASCADE\"), nullable=False, index=True)\n    message = Column(Text, nullable=False)\n    created_at = Column(DateTime(timezone=True), server_default=func.now(), nullable=False)",
+        "detail": "backend.app.models.booking_message",
+        "documentation": {}
+    },
+    {
+        "label": "generate_uuid",
+        "kind": 2,
+        "importPath": "backend.app.models.booking_message",
+        "description": "backend.app.models.booking_message",
+        "peekOfCode": "def generate_uuid():\n    return str(uuid.uuid4())\nclass BookingMessage(Base):\n    __tablename__ = \"booking_messages\"\n    id = Column(String, primary_key=True, default=generate_uuid)\n    booking_id = Column(String, ForeignKey(\"bookings.id\", ondelete=\"CASCADE\"), nullable=False, index=True)\n    sender_user_id = Column(String, ForeignKey(\"users.id\", ondelete=\"CASCADE\"), nullable=False, index=True)\n    message = Column(Text, nullable=False)\n    created_at = Column(DateTime(timezone=True), server_default=func.now(), nullable=False)",
+        "detail": "backend.app.models.booking_message",
+        "documentation": {}
+    },
+    {
+        "label": "BookingStatusHistory",
+        "kind": 6,
+        "importPath": "backend.app.models.booking_status_history",
+        "description": "backend.app.models.booking_status_history",
+        "peekOfCode": "class BookingStatusHistory(Base):\n    __tablename__ = \"booking_status_history\"\n    id = Column(String, primary_key=True, default=generate_uuid)\n    booking_id = Column(\n        String,\n        ForeignKey(\"bookings.id\", ondelete=\"CASCADE\"),\n        nullable=False,\n        index=True,\n    )\n    from_status = Column(String, nullable=True)",
+        "detail": "backend.app.models.booking_status_history",
+        "documentation": {}
+    },
+    {
+        "label": "generate_uuid",
+        "kind": 2,
+        "importPath": "backend.app.models.booking_status_history",
+        "description": "backend.app.models.booking_status_history",
+        "peekOfCode": "def generate_uuid():\n    return str(uuid.uuid4())\nclass BookingStatusHistory(Base):\n    __tablename__ = \"booking_status_history\"\n    id = Column(String, primary_key=True, default=generate_uuid)\n    booking_id = Column(\n        String,\n        ForeignKey(\"bookings.id\", ondelete=\"CASCADE\"),\n        nullable=False,\n        index=True,",
+        "detail": "backend.app.models.booking_status_history",
+        "documentation": {}
+    },
+    {
+        "label": "ClubProfile",
+        "kind": 6,
+        "importPath": "backend.app.models.club",
+        "description": "backend.app.models.club",
+        "peekOfCode": "class ClubProfile(Base):\n    __tablename__ = \"club_profiles\"\n    id: Mapped[str] = mapped_column(String, primary_key=True, default=lambda: str(uuid.uuid4()))\n    user_id: Mapped[str] = mapped_column(String, ForeignKey(\"users.id\"), unique=True, nullable=False)\n    club_name: Mapped[str] = mapped_column(String(150), nullable=False, index=True)\n    description: Mapped[str | None] = mapped_column(Text, nullable=True)\n    instagram_url: Mapped[str | None] = mapped_column(String(500), nullable=True)\n    city: Mapped[str | None] = mapped_column(String(120), nullable=True)\n    state: Mapped[str | None] = mapped_column(String(120), nullable=True)\n    created_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow, nullable=False)",
+        "detail": "backend.app.models.club",
+        "documentation": {}
+    },
+    {
+        "label": "DJProfile",
+        "kind": 6,
+        "importPath": "backend.app.models.dj",
+        "description": "backend.app.models.dj",
+        "peekOfCode": "class DJProfile(Base):\n    __tablename__ = \"dj_profiles\"\n    id: Mapped[str] = mapped_column(String, primary_key=True, default=lambda: str(uuid.uuid4()))\n    user_id: Mapped[str] = mapped_column(String, ForeignKey(\"users.id\"), unique=True, nullable=False)\n    stage_name: Mapped[str] = mapped_column(String(150), nullable=False, index=True)\n    bio: Mapped[str | None] = mapped_column(Text, nullable=True)\n    genres: Mapped[str | None] = mapped_column(String(255), nullable=True)\n    instagram_url: Mapped[str | None] = mapped_column(String(500), nullable=True)\n    soundcloud_url: Mapped[str | None] = mapped_column(String(500), nullable=True)\n    youtube_url: Mapped[str | None] = mapped_column(String(500), nullable=True)",
+        "detail": "backend.app.models.dj",
+        "documentation": {}
+    },
+    {
+        "label": "PlanType",
+        "kind": 6,
+        "importPath": "backend.app.models.subscription",
+        "description": "backend.app.models.subscription",
+        "peekOfCode": "class PlanType(str, enum.Enum):\n    DJ_FREE    = \"DJ_FREE\"      # trial / sem plano pago\n    DJ_PRO     = \"DJ_PRO\"       # DJ com plano pago\n    CLUB_FREE  = \"CLUB_FREE\"\n    CLUB_PRO   = \"CLUB_PRO\"\nclass SubscriptionStatus(str, enum.Enum):\n    TRIALING   = \"TRIALING\"     # dentro dos 30 dias grátis\n    ACTIVE     = \"ACTIVE\"       # pagando\n    PAST_DUE   = \"PAST_DUE\"     # pagamento atrasado\n    CANCELED   = \"CANCELED\"     # cancelado",
+        "detail": "backend.app.models.subscription",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionStatus",
+        "kind": 6,
+        "importPath": "backend.app.models.subscription",
+        "description": "backend.app.models.subscription",
+        "peekOfCode": "class SubscriptionStatus(str, enum.Enum):\n    TRIALING   = \"TRIALING\"     # dentro dos 30 dias grátis\n    ACTIVE     = \"ACTIVE\"       # pagando\n    PAST_DUE   = \"PAST_DUE\"     # pagamento atrasado\n    CANCELED   = \"CANCELED\"     # cancelado\n    EXPIRED    = \"EXPIRED\"      # trial expirou sem virar pago\nclass Subscription(Base):\n    __tablename__ = \"subscriptions\"\n    id                      = Column(String, primary_key=True, default=generate_uuid)\n    user_id                 = Column(String, ForeignKey(\"users.id\", ondelete=\"CASCADE\"), nullable=False, unique=True, index=True)",
+        "detail": "backend.app.models.subscription",
+        "documentation": {}
+    },
+    {
+        "label": "Subscription",
+        "kind": 6,
+        "importPath": "backend.app.models.subscription",
+        "description": "backend.app.models.subscription",
+        "peekOfCode": "class Subscription(Base):\n    __tablename__ = \"subscriptions\"\n    id                      = Column(String, primary_key=True, default=generate_uuid)\n    user_id                 = Column(String, ForeignKey(\"users.id\", ondelete=\"CASCADE\"), nullable=False, unique=True, index=True)\n    plan                    = Column(SAEnum(PlanType), nullable=False, default=PlanType.DJ_FREE)\n    status                  = Column(SAEnum(SubscriptionStatus), nullable=False, default=SubscriptionStatus.TRIALING)\n    # Stripe IDs\n    stripe_customer_id      = Column(String, nullable=True, unique=True)\n    stripe_subscription_id  = Column(String, nullable=True, unique=True)\n    stripe_price_id         = Column(String, nullable=True)",
+        "detail": "backend.app.models.subscription",
+        "documentation": {}
+    },
+    {
+        "label": "generate_uuid",
+        "kind": 2,
+        "importPath": "backend.app.models.subscription",
+        "description": "backend.app.models.subscription",
+        "peekOfCode": "def generate_uuid():\n    return str(uuid.uuid4())\nclass PlanType(str, enum.Enum):\n    DJ_FREE    = \"DJ_FREE\"      # trial / sem plano pago\n    DJ_PRO     = \"DJ_PRO\"       # DJ com plano pago\n    CLUB_FREE  = \"CLUB_FREE\"\n    CLUB_PRO   = \"CLUB_PRO\"\nclass SubscriptionStatus(str, enum.Enum):\n    TRIALING   = \"TRIALING\"     # dentro dos 30 dias grátis\n    ACTIVE     = \"ACTIVE\"       # pagando",
+        "detail": "backend.app.models.subscription",
+        "documentation": {}
+    },
+    {
+        "label": "UserType",
+        "kind": 6,
+        "importPath": "backend.app.models.user",
+        "description": "backend.app.models.user",
+        "peekOfCode": "class UserType(str, enum.Enum):\n    FAN = \"FAN\"\n    DJ = \"DJ\"\n    CLUB = \"CLUB\"\nclass User(Base):\n    __tablename__ = \"users\"\n    id: Mapped[str] = mapped_column(String, primary_key=True, default=lambda: str(uuid.uuid4()))\n    name: Mapped[str] = mapped_column(String(120), nullable=False)\n    email: Mapped[str] = mapped_column(String(255), unique=True, nullable=False, index=True)\n    password_hash: Mapped[str] = mapped_column(String(255), nullable=False)",
+        "detail": "backend.app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "backend.app.models.user",
+        "description": "backend.app.models.user",
+        "peekOfCode": "class User(Base):\n    __tablename__ = \"users\"\n    id: Mapped[str] = mapped_column(String, primary_key=True, default=lambda: str(uuid.uuid4()))\n    name: Mapped[str] = mapped_column(String(120), nullable=False)\n    email: Mapped[str] = mapped_column(String(255), unique=True, nullable=False, index=True)\n    password_hash: Mapped[str] = mapped_column(String(255), nullable=False)\n    user_type: Mapped[UserType] = mapped_column(Enum(UserType), nullable=False)\n    city: Mapped[str | None] = mapped_column(String(120), nullable=True)\n    state: Mapped[str | None] = mapped_column(String(120), nullable=True)\n    avatar_url: Mapped[str | None] = mapped_column(String(500), nullable=True)",
+        "detail": "backend.app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "backend.app.routes.auth",
+        "description": "backend.app.routes.auth",
+        "peekOfCode": "def register(payload: RegisterRequest, background_tasks: BackgroundTasks, db: Session = Depends(get_db)):\n    existing_user = db.query(User).filter(User.email == payload.email).first()\n    if existing_user:\n        raise HTTPException(\n            status_code=status.HTTP_409_CONFLICT,\n            detail=\"Email já cadastrado\"\n        )\n    user = User(\n        name=payload.name,\n        email=payload.email,",
+        "detail": "backend.app.routes.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "backend.app.routes.auth",
+        "description": "backend.app.routes.auth",
+        "peekOfCode": "def login(payload: LoginRequest, db: Session = Depends(get_db)):\n    user = db.query(User).filter(User.email == payload.email).first()\n    if not user:\n        raise HTTPException(\n            status_code=status.HTTP_401_UNAUTHORIZED,\n            detail=\"Credenciais inválidas\"\n        )\n    if not verify_password(payload.password, user.password_hash):\n        raise HTTPException(\n            status_code=status.HTTP_401_UNAUTHORIZED,",
+        "detail": "backend.app.routes.auth",
+        "documentation": {}
+    },
+    {
+        "label": "me",
+        "kind": 2,
+        "importPath": "backend.app.routes.auth",
+        "description": "backend.app.routes.auth",
+        "peekOfCode": "def me(current_user: User = Depends(get_current_user)):\n    return current_user",
+        "detail": "backend.app.routes.auth",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.app.routes.auth",
+        "description": "backend.app.routes.auth",
+        "peekOfCode": "router = APIRouter(prefix=\"/auth\", tags=[\"Auth\"])\n@router.post(\"/register\", response_model=TokenResponse)\ndef register(payload: RegisterRequest, background_tasks: BackgroundTasks, db: Session = Depends(get_db)):\n    existing_user = db.query(User).filter(User.email == payload.email).first()\n    if existing_user:\n        raise HTTPException(\n            status_code=status.HTTP_409_CONFLICT,\n            detail=\"Email já cadastrado\"\n        )\n    user = User(",
+        "detail": "backend.app.routes.auth",
+        "documentation": {}
+    },
+    {
+        "label": "has_time_conflict",
+        "kind": 2,
+        "importPath": "backend.app.routes.availability",
+        "description": "backend.app.routes.availability",
+        "peekOfCode": "def has_time_conflict(\n    db: Session,\n    dj_profile_id: str,\n    start_time: datetime,\n    end_time: datetime,\n    ignore_block_id: str | None = None,\n) -> bool:\n    query = db.query(AvailabilityBlock).filter(\n        AvailabilityBlock.dj_id == dj_profile_id,\n        and_(",
+        "detail": "backend.app.routes.availability",
+        "documentation": {}
+    },
+    {
+        "label": "get_my_dj_profile_or_fail",
+        "kind": 2,
+        "importPath": "backend.app.routes.availability",
+        "description": "backend.app.routes.availability",
+        "peekOfCode": "def get_my_dj_profile_or_fail(db: Session, current_user: User) -> DJProfile:\n    if current_user.user_type != UserType.DJ:\n        raise HTTPException(\n            status_code=status.HTTP_403_FORBIDDEN, detail=\"Apenas DJ pode operar agenda\"\n        )\n    dj_profile = (\n        db.query(DJProfile).filter(DJProfile.user_id == current_user.id).first()\n    )\n    if not dj_profile:\n        raise HTTPException(",
+        "detail": "backend.app.routes.availability",
+        "documentation": {}
+    },
+    {
+        "label": "create_manual_block",
+        "kind": 2,
+        "importPath": "backend.app.routes.availability",
+        "description": "backend.app.routes.availability",
+        "peekOfCode": "def create_manual_block(\n    payload: AvailabilityBlockCreateRequest,\n    db: Session = Depends(get_db),\n    current_user: User = Depends(get_current_user),\n):\n    if payload.end_time <= payload.start_time:\n        raise HTTPException(\n            status_code=status.HTTP_400_BAD_REQUEST,\n            detail=\"end_time deve ser maior que start_time\",\n        )",
+        "detail": "backend.app.routes.availability",
+        "documentation": {}
+    },
+    {
+        "label": "list_my_blocks",
+        "kind": 2,
+        "importPath": "backend.app.routes.availability",
+        "description": "backend.app.routes.availability",
+        "peekOfCode": "def list_my_blocks(\n    db: Session = Depends(get_db),\n    current_user: User = Depends(get_current_user),\n):\n    dj_profile = get_my_dj_profile_or_fail(db, current_user)\n    return (\n        db.query(AvailabilityBlock)\n        .filter(AvailabilityBlock.dj_id == dj_profile.id)\n        .order_by(AvailabilityBlock.start_time.asc())\n        .all()",
+        "detail": "backend.app.routes.availability",
+        "documentation": {}
+    },
+    {
+        "label": "update_manual_block",
+        "kind": 2,
+        "importPath": "backend.app.routes.availability",
+        "description": "backend.app.routes.availability",
+        "peekOfCode": "def update_manual_block(\n    block_id: str,\n    payload: AvailabilityBlockUpdateRequest,\n    db: Session = Depends(get_db),\n    current_user: User = Depends(get_current_user),\n):\n    if payload.end_time <= payload.start_time:\n        raise HTTPException(\n            status_code=status.HTTP_400_BAD_REQUEST,\n            detail=\"end_time deve ser maior que start_time\",",
+        "detail": "backend.app.routes.availability",
+        "documentation": {}
+    },
+    {
+        "label": "delete_manual_block",
+        "kind": 2,
+        "importPath": "backend.app.routes.availability",
+        "description": "backend.app.routes.availability",
+        "peekOfCode": "def delete_manual_block(\n    block_id: str,\n    db: Session = Depends(get_db),\n    current_user: User = Depends(get_current_user),\n):\n    dj_profile = get_my_dj_profile_or_fail(db, current_user)\n    block = (\n        db.query(AvailabilityBlock)\n        .filter(\n            AvailabilityBlock.id == block_id,",
+        "detail": "backend.app.routes.availability",
+        "documentation": {}
+    },
+    {
+        "label": "check_dj_availability",
+        "kind": 2,
+        "importPath": "backend.app.routes.availability",
+        "description": "backend.app.routes.availability",
+        "peekOfCode": "def check_dj_availability(\n    dj_profile_id: str,\n    start_time: datetime = Query(...),\n    end_time: datetime = Query(...),\n    db: Session = Depends(get_db),\n):\n    if end_time <= start_time:\n        raise HTTPException(\n            status_code=status.HTTP_400_BAD_REQUEST,\n            detail=\"end_time deve ser maior que start_time\",",
+        "detail": "backend.app.routes.availability",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.app.routes.availability",
+        "description": "backend.app.routes.availability",
+        "peekOfCode": "router = APIRouter(prefix=\"/availability\", tags=[\"Availability\"])\ndef has_time_conflict(\n    db: Session,\n    dj_profile_id: str,\n    start_time: datetime,\n    end_time: datetime,\n    ignore_block_id: str | None = None,\n) -> bool:\n    query = db.query(AvailabilityBlock).filter(\n        AvailabilityBlock.dj_id == dj_profile_id,",
+        "detail": "backend.app.routes.availability",
+        "documentation": {}
+    },
+    {
+        "label": "has_time_conflict",
+        "kind": 2,
+        "importPath": "backend.app.routes.booking",
+        "description": "backend.app.routes.booking",
+        "peekOfCode": "def has_time_conflict(\n    db: Session,\n    dj_profile_id: str,\n    start_time,\n    end_time,\n    ignore_booking_id: str | None = None,\n) -> bool:\n    query = db.query(AvailabilityBlock).filter(\n        AvailabilityBlock.dj_id == dj_profile_id,\n        and_(",
+        "detail": "backend.app.routes.booking",
+        "documentation": {}
+    },
+    {
+        "label": "get_club_profile_or_fail",
+        "kind": 2,
+        "importPath": "backend.app.routes.booking",
+        "description": "backend.app.routes.booking",
+        "peekOfCode": "def get_club_profile_or_fail(db: Session, current_user: User) -> ClubProfile:\n    if current_user.user_type != UserType.CLUB:\n        raise HTTPException(\n            status_code=status.HTTP_403_FORBIDDEN,\n            detail=\"Apenas CLUB pode operar propostas como contratante\",\n        )\n    club_profile = (\n        db.query(ClubProfile).filter(ClubProfile.user_id == current_user.id).first()\n    )\n    if not club_profile:",
+        "detail": "backend.app.routes.booking",
+        "documentation": {}
+    },
+    {
+        "label": "get_dj_profile_or_fail",
+        "kind": 2,
+        "importPath": "backend.app.routes.booking",
+        "description": "backend.app.routes.booking",
+        "peekOfCode": "def get_dj_profile_or_fail(db: Session, current_user: User) -> DJProfile:\n    if current_user.user_type != UserType.DJ:\n        raise HTTPException(\n            status_code=status.HTTP_403_FORBIDDEN,\n            detail=\"Apenas DJ pode operar propostas como artista\",\n        )\n    dj_profile = (\n        db.query(DJProfile).filter(DJProfile.user_id == current_user.id).first()\n    )\n    if not dj_profile:",
+        "detail": "backend.app.routes.booking",
+        "documentation": {}
+    },
+    {
+        "label": "get_booking_or_fail",
+        "kind": 2,
+        "importPath": "backend.app.routes.booking",
+        "description": "backend.app.routes.booking",
+        "peekOfCode": "def get_booking_or_fail(db: Session, booking_id: str) -> Booking:\n    booking = db.query(Booking).filter(Booking.id == booking_id).first()\n    if not booking:\n        raise HTTPException(\n            status_code=status.HTTP_404_NOT_FOUND,\n            detail=\"Proposta não encontrada\",\n        )\n    return booking\ndef ensure_booking_access(db: Session, booking: Booking, current_user: User) -> None:\n    if current_user.user_type == UserType.DJ:",
+        "detail": "backend.app.routes.booking",
+        "documentation": {}
+    },
+    {
+        "label": "ensure_booking_access",
+        "kind": 2,
+        "importPath": "backend.app.routes.booking",
+        "description": "backend.app.routes.booking",
+        "peekOfCode": "def ensure_booking_access(db: Session, booking: Booking, current_user: User) -> None:\n    if current_user.user_type == UserType.DJ:\n        dj_profile = get_dj_profile_or_fail(db, current_user)\n        if booking.dj_id != dj_profile.id:\n            raise HTTPException(\n                status_code=status.HTTP_403_FORBIDDEN,\n                detail=\"Você não pode acessar proposta de outro DJ\",\n            )\n        return\n    if current_user.user_type == UserType.CLUB:",
+        "detail": "backend.app.routes.booking",
+        "documentation": {}
+    },
+    {
+        "label": "create_status_history",
+        "kind": 2,
+        "importPath": "backend.app.routes.booking",
+        "description": "backend.app.routes.booking",
+        "peekOfCode": "def create_status_history(\n    db: Session,\n    booking: Booking,\n    from_status: str | None,\n    to_status: str,\n    changed_by_user_id: str,\n    reason: str | None = None,\n) -> None:\n    history_entry = BookingStatusHistory(\n        booking_id=booking.id,",
+        "detail": "backend.app.routes.booking",
+        "documentation": {}
+    },
+    {
+        "label": "create_booking_proposal",
+        "kind": 2,
+        "importPath": "backend.app.routes.booking",
+        "description": "backend.app.routes.booking",
+        "peekOfCode": "def create_booking_proposal(\n    payload: BookingCreateRequest,\n    background_tasks: BackgroundTasks,\n    db: Session = Depends(get_db),\n    current_user: User = Depends(get_current_user),\n):\n    club_profile = get_club_profile_or_fail(db, current_user)\n    if (\n        payload.end_time\n        and payload.start_time",
+        "detail": "backend.app.routes.booking",
+        "documentation": {}
+    },
+    {
+        "label": "list_my_sent_bookings",
+        "kind": 2,
+        "importPath": "backend.app.routes.booking",
+        "description": "backend.app.routes.booking",
+        "peekOfCode": "def list_my_sent_bookings(\n    db: Session = Depends(get_db),\n    current_user: User = Depends(get_current_user),\n):\n    club_profile = get_club_profile_or_fail(db, current_user)\n    return (\n        db.query(Booking)\n        .filter(Booking.club_id == club_profile.id)\n        .order_by(Booking.created_at.desc())\n        .all()",
+        "detail": "backend.app.routes.booking",
+        "documentation": {}
+    },
+    {
+        "label": "list_my_received_bookings",
+        "kind": 2,
+        "importPath": "backend.app.routes.booking",
+        "description": "backend.app.routes.booking",
+        "peekOfCode": "def list_my_received_bookings(\n    db: Session = Depends(get_db),\n    current_user: User = Depends(get_current_user),\n):\n    dj_profile = get_dj_profile_or_fail(db, current_user)\n    return (\n        db.query(Booking)\n        .filter(Booking.dj_id == dj_profile.id)\n        .order_by(Booking.created_at.desc())\n        .all()",
+        "detail": "backend.app.routes.booking",
+        "documentation": {}
+    },
+    {
+        "label": "get_booking_detail",
+        "kind": 2,
+        "importPath": "backend.app.routes.booking",
+        "description": "backend.app.routes.booking",
+        "peekOfCode": "def get_booking_detail(\n    booking_id: str,\n    db: Session = Depends(get_db),\n    current_user: User = Depends(get_current_user),\n):\n    booking = get_booking_or_fail(db, booking_id)\n    ensure_booking_access(db, booking, current_user)\n    return booking\n@router.get(\n    \"/{booking_id}/history\",",
+        "detail": "backend.app.routes.booking",
+        "documentation": {}
+    },
+    {
+        "label": "get_booking_status_history",
+        "kind": 2,
+        "importPath": "backend.app.routes.booking",
+        "description": "backend.app.routes.booking",
+        "peekOfCode": "def get_booking_status_history(\n    booking_id: str,\n    db: Session = Depends(get_db),\n    current_user: User = Depends(get_current_user),\n):\n    booking = get_booking_or_fail(db, booking_id)\n    ensure_booking_access(db, booking, current_user)\n    history = (\n        db.query(BookingStatusHistory)\n        .filter(BookingStatusHistory.booking_id == booking_id)",
+        "detail": "backend.app.routes.booking",
+        "documentation": {}
+    },
+    {
+        "label": "update_booking_status",
+        "kind": 2,
+        "importPath": "backend.app.routes.booking",
+        "description": "backend.app.routes.booking",
+        "peekOfCode": "def update_booking_status(\n    booking_id: str,\n    payload: BookingStatusUpdate,\n    background_tasks: BackgroundTasks,\n    db: Session = Depends(get_db),\n    current_user: User = Depends(get_current_user),\n):\n    booking = get_booking_or_fail(db, booking_id)\n    allowed_statuses = {\n        BookingStatus.NEGOCIANDO,",
+        "detail": "backend.app.routes.booking",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.app.routes.booking",
+        "description": "backend.app.routes.booking",
+        "peekOfCode": "router = APIRouter(prefix=\"/bookings\", tags=[\"Bookings\"])\ndef _fmt_date(dt) -> str:\n    if not dt:\n        return \"—\"\n    try:\n        return dt.strftime(\"%d/%m/%Y %H:%M\")\n    except Exception:\n        return str(dt)\ndef has_time_conflict(\n    db: Session,",
+        "detail": "backend.app.routes.booking",
+        "documentation": {}
+    },
+    {
+        "label": "send_booking_message",
+        "kind": 2,
+        "importPath": "backend.app.routes.booking_message",
+        "description": "backend.app.routes.booking_message",
+        "peekOfCode": "def send_booking_message(\n    booking_id: str,\n    payload: BookingMessageCreate,\n    db: Session = Depends(get_db),\n    current_user=Depends(get_current_user),\n):\n    booking = _get_booking_and_validate_access(booking_id, current_user, db)\n    message_text = payload.message.strip()\n    if not message_text:\n        raise HTTPException(",
+        "detail": "backend.app.routes.booking_message",
+        "documentation": {}
+    },
+    {
+        "label": "list_booking_messages",
+        "kind": 2,
+        "importPath": "backend.app.routes.booking_message",
+        "description": "backend.app.routes.booking_message",
+        "peekOfCode": "def list_booking_messages(\n    booking_id: str,\n    db: Session = Depends(get_db),\n    current_user=Depends(get_current_user),\n):\n    _get_booking_and_validate_access(booking_id, current_user, db)\n    messages = (\n        db.query(BookingMessage)\n        .filter(BookingMessage.booking_id == booking_id)\n        .order_by(BookingMessage.created_at.asc())",
+        "detail": "backend.app.routes.booking_message",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.app.routes.booking_message",
+        "description": "backend.app.routes.booking_message",
+        "peekOfCode": "router = APIRouter(prefix=\"/booking-messages\", tags=[\"booking-messages\"])\ndef _get_booking_and_validate_access(booking_id: str, current_user, db: Session) -> Booking:\n    booking = db.query(Booking).filter(Booking.id == booking_id).first()\n    if not booking:\n        raise HTTPException(\n            status_code=status.HTTP_404_NOT_FOUND,\n            detail=\"Booking não encontrado\"\n        )\n    dj_profile = db.query(DJProfile).filter(DJProfile.id == booking.dj_id).first()\n    club_profile = db.query(ClubProfile).filter(ClubProfile.id == booking.club_id).first()",
+        "detail": "backend.app.routes.booking_message",
+        "documentation": {}
+    },
+    {
+        "label": "create_my_club_profile",
+        "kind": 2,
+        "importPath": "backend.app.routes.club",
+        "description": "backend.app.routes.club",
+        "peekOfCode": "def create_my_club_profile(\n    payload: ClubCreateRequest,\n    db: Session = Depends(get_db),\n    current_user: User = Depends(get_current_user),\n):\n    if current_user.user_type != UserType.CLUB:\n        raise HTTPException(\n            status_code=status.HTTP_403_FORBIDDEN,\n            detail=\"Apenas usuários do tipo CLUB podem criar perfil de club\"\n        )",
+        "detail": "backend.app.routes.club",
+        "documentation": {}
+    },
+    {
+        "label": "get_my_club_profile",
+        "kind": 2,
+        "importPath": "backend.app.routes.club",
+        "description": "backend.app.routes.club",
+        "peekOfCode": "def get_my_club_profile(\n    db: Session = Depends(get_db),\n    current_user: User = Depends(get_current_user),\n):\n    if current_user.user_type != UserType.CLUB:\n        raise HTTPException(\n            status_code=status.HTTP_403_FORBIDDEN,\n            detail=\"Apenas usuários do tipo CLUB possuem perfil de club\"\n        )\n    club = db.query(ClubProfile).filter(ClubProfile.user_id == current_user.id).first()",
+        "detail": "backend.app.routes.club",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.app.routes.club",
+        "description": "backend.app.routes.club",
+        "peekOfCode": "router = APIRouter(prefix=\"/clubs\", tags=[\"Clubs\"])\n@router.post(\"/me\", response_model=ClubResponse)\ndef create_my_club_profile(\n    payload: ClubCreateRequest,\n    db: Session = Depends(get_db),\n    current_user: User = Depends(get_current_user),\n):\n    if current_user.user_type != UserType.CLUB:\n        raise HTTPException(\n            status_code=status.HTTP_403_FORBIDDEN,",
+        "detail": "backend.app.routes.club",
+        "documentation": {}
+    },
+    {
+        "label": "list_djs",
+        "kind": 2,
+        "importPath": "backend.app.routes.djs",
+        "description": "backend.app.routes.djs",
+        "peekOfCode": "def list_djs(db: Session = Depends(get_db)):\n    djs = db.query(DJProfile).options(joinedload(DJProfile.user)).all()\n    return [_enrich(dj) for dj in djs]\n# ⚠️ Rotas /me DEVEM vir antes de /{id} para o FastAPI não interpretar \"me\" como um ID\n@router.post(\"/me\", response_model=DJResponse)\ndef create_my_dj_profile(\n    payload: DJCreateRequest,\n    db: Session = Depends(get_db),\n    current_user: User = Depends(get_current_user),\n):",
+        "detail": "backend.app.routes.djs",
+        "documentation": {}
+    },
+    {
+        "label": "create_my_dj_profile",
+        "kind": 2,
+        "importPath": "backend.app.routes.djs",
+        "description": "backend.app.routes.djs",
+        "peekOfCode": "def create_my_dj_profile(\n    payload: DJCreateRequest,\n    db: Session = Depends(get_db),\n    current_user: User = Depends(get_current_user),\n):\n    if current_user.user_type != UserType.DJ:\n        raise HTTPException(\n            status_code=status.HTTP_403_FORBIDDEN,\n            detail=\"Apenas usuários do tipo DJ podem criar perfil de DJ\",\n        )",
+        "detail": "backend.app.routes.djs",
+        "documentation": {}
+    },
+    {
+        "label": "get_my_dj_profile",
+        "kind": 2,
+        "importPath": "backend.app.routes.djs",
+        "description": "backend.app.routes.djs",
+        "peekOfCode": "def get_my_dj_profile(\n    db: Session = Depends(get_db),\n    current_user: User = Depends(get_current_user),\n):\n    if current_user.user_type != UserType.DJ:\n        raise HTTPException(\n            status_code=status.HTTP_403_FORBIDDEN,\n            detail=\"Apenas usuários do tipo DJ possuem perfil de DJ\",\n        )\n    dj = (",
+        "detail": "backend.app.routes.djs",
+        "documentation": {}
+    },
+    {
+        "label": "update_my_dj_profile",
+        "kind": 2,
+        "importPath": "backend.app.routes.djs",
+        "description": "backend.app.routes.djs",
+        "peekOfCode": "def update_my_dj_profile(\n    payload: DJCreateRequest,\n    db: Session = Depends(get_db),\n    current_user: User = Depends(get_current_user),\n):\n    if current_user.user_type != UserType.DJ:\n        raise HTTPException(\n            status_code=status.HTTP_403_FORBIDDEN,\n            detail=\"Apenas usuários do tipo DJ podem editar perfil de DJ\",\n        )",
+        "detail": "backend.app.routes.djs",
+        "documentation": {}
+    },
+    {
+        "label": "get_dj",
+        "kind": 2,
+        "importPath": "backend.app.routes.djs",
+        "description": "backend.app.routes.djs",
+        "peekOfCode": "def get_dj(dj_id: str, db: Session = Depends(get_db)):\n    dj = (\n        db.query(DJProfile)\n        .options(joinedload(DJProfile.user))\n        .filter(DJProfile.id == dj_id)\n        .first()\n    )\n    if not dj:\n        raise HTTPException(\n            status_code=status.HTTP_404_NOT_FOUND, detail=\"DJ não encontrado\"",
+        "detail": "backend.app.routes.djs",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.app.routes.djs",
+        "description": "backend.app.routes.djs",
+        "peekOfCode": "router = APIRouter(prefix=\"/djs\", tags=[\"DJs\"])\ndef _enrich(dj: DJProfile) -> dict:\n    \"\"\"Merge DJProfile + User fields into a single dict for DJResponse.\"\"\"\n    u = dj.user\n    return {\n        \"id\": dj.id,\n        \"user_id\": dj.user_id,\n        \"stage_name\": dj.stage_name,\n        \"bio\": dj.bio,\n        \"genres\": dj.genres,",
+        "detail": "backend.app.routes.djs",
+        "documentation": {}
+    },
+    {
+        "label": "health_check",
+        "kind": 2,
+        "importPath": "backend.app.routes.health",
+        "description": "backend.app.routes.health",
+        "peekOfCode": "def health_check():\n    return {\"status\": \"ok\"}",
+        "detail": "backend.app.routes.health",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.app.routes.health",
+        "description": "backend.app.routes.health",
+        "peekOfCode": "router = APIRouter(prefix=\"/health\", tags=[\"Health\"])\n@router.get(\"\")\ndef health_check():\n    return {\"status\": \"ok\"}",
+        "detail": "backend.app.routes.health",
+        "documentation": {}
+    },
+    {
+        "label": "get_or_create_subscription",
+        "kind": 2,
+        "importPath": "backend.app.routes.stripe_routes",
+        "description": "backend.app.routes.stripe_routes",
+        "peekOfCode": "def get_or_create_subscription(db: Session, user: User) -> Subscription:\n    sub = db.query(Subscription).filter(Subscription.user_id == user.id).first()\n    if not sub:\n        plan = PlanType.DJ_FREE if user.user_type == UserType.DJ else PlanType.CLUB_FREE\n        trial_ends = datetime.now(timezone.utc) + timedelta(days=14)\n        sub = Subscription(\n            user_id=user.id,\n            plan=plan,\n            status=SubscriptionStatus.TRIALING,\n            trial_ends_at=trial_ends,",
+        "detail": "backend.app.routes.stripe_routes",
+        "documentation": {}
+    },
+    {
+        "label": "get_my_subscription",
+        "kind": 2,
+        "importPath": "backend.app.routes.stripe_routes",
+        "description": "backend.app.routes.stripe_routes",
+        "peekOfCode": "def get_my_subscription(\n    db: Session = Depends(get_db),\n    current_user: User = Depends(get_current_user),\n):\n    \"\"\"Retorna (ou cria) a subscription do usuário logado.\"\"\"\n    sub = get_or_create_subscription(db, current_user)\n    # Atualiza status do trial se expirou\n    if (\n        sub.status == SubscriptionStatus.TRIALING\n        and sub.trial_ends_at",
+        "detail": "backend.app.routes.stripe_routes",
+        "documentation": {}
+    },
+    {
+        "label": "create_checkout_session",
+        "kind": 2,
+        "importPath": "backend.app.routes.stripe_routes",
+        "description": "backend.app.routes.stripe_routes",
+        "peekOfCode": "def create_checkout_session(\n    db: Session = Depends(get_db),\n    current_user: User = Depends(get_current_user),\n):\n    \"\"\"Cria uma Stripe Checkout Session para assinar o plano Pro.\"\"\"\n    if not stripe.api_key:\n        raise HTTPException(status_code=501, detail=\"Stripe não configurado.\")\n    sub = get_or_create_subscription(db, current_user)\n    price_id = _price_id_for_user(current_user)\n    if not price_id:",
+        "detail": "backend.app.routes.stripe_routes",
+        "documentation": {}
+    },
+    {
+        "label": "create_portal_session",
+        "kind": 2,
+        "importPath": "backend.app.routes.stripe_routes",
+        "description": "backend.app.routes.stripe_routes",
+        "peekOfCode": "def create_portal_session(\n    db: Session = Depends(get_db),\n    current_user: User = Depends(get_current_user),\n):\n    \"\"\"Abre o Stripe Customer Portal para gerenciar/cancelar assinatura.\"\"\"\n    if not stripe.api_key:\n        raise HTTPException(status_code=501, detail=\"Stripe não configurado.\")\n    sub = db.query(Subscription).filter(Subscription.user_id == current_user.id).first()\n    if not sub or not sub.stripe_customer_id:\n        raise HTTPException(status_code=404, detail=\"Sem assinatura ativa.\")",
+        "detail": "backend.app.routes.stripe_routes",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.app.routes.stripe_routes",
+        "description": "backend.app.routes.stripe_routes",
+        "peekOfCode": "router = APIRouter(prefix=\"/stripe\", tags=[\"Stripe\"])\nstripe.api_key = getattr(settings, \"STRIPE_SECRET_KEY\", \"\")\n# ─── helpers ──────────────────────────────────────────────────────────────────\ndef get_or_create_subscription(db: Session, user: User) -> Subscription:\n    sub = db.query(Subscription).filter(Subscription.user_id == user.id).first()\n    if not sub:\n        plan = PlanType.DJ_FREE if user.user_type == UserType.DJ else PlanType.CLUB_FREE\n        trial_ends = datetime.now(timezone.utc) + timedelta(days=14)\n        sub = Subscription(\n            user_id=user.id,",
+        "detail": "backend.app.routes.stripe_routes",
+        "documentation": {}
+    },
+    {
+        "label": "stripe.api_key",
+        "kind": 5,
+        "importPath": "backend.app.routes.stripe_routes",
+        "description": "backend.app.routes.stripe_routes",
+        "peekOfCode": "stripe.api_key = getattr(settings, \"STRIPE_SECRET_KEY\", \"\")\n# ─── helpers ──────────────────────────────────────────────────────────────────\ndef get_or_create_subscription(db: Session, user: User) -> Subscription:\n    sub = db.query(Subscription).filter(Subscription.user_id == user.id).first()\n    if not sub:\n        plan = PlanType.DJ_FREE if user.user_type == UserType.DJ else PlanType.CLUB_FREE\n        trial_ends = datetime.now(timezone.utc) + timedelta(days=14)\n        sub = Subscription(\n            user_id=user.id,\n            plan=plan,",
+        "detail": "backend.app.routes.stripe_routes",
+        "documentation": {}
+    },
+    {
+        "label": "ensure_upload_dir",
+        "kind": 2,
+        "importPath": "backend.app.routes.users",
+        "description": "backend.app.routes.users",
+        "peekOfCode": "def ensure_upload_dir():\n    os.makedirs(UPLOAD_DIR, exist_ok=True)\ndef _remove_background(image_bytes: bytes) -> bytes:\n    \"\"\"\n    Remove o fundo da imagem usando rembg.\n    Retorna PNG com fundo transparente.\n    Importa lazily para não travar o startup caso rembg não esteja instalado.\n    \"\"\"\n    try:\n        from rembg import remove as rembg_remove",
+        "detail": "backend.app.routes.users",
+        "documentation": {}
+    },
+    {
+        "label": "get_me",
+        "kind": 2,
+        "importPath": "backend.app.routes.users",
+        "description": "backend.app.routes.users",
+        "peekOfCode": "def get_me(current_user: User = Depends(get_current_user)):\n    return current_user\n@router.post(\"/me/avatar\", response_model=UserResponse)\nasync def upload_avatar(\n    file: UploadFile = File(...),\n    remove_bg: bool = Query(False, description=\"Remove o fundo da imagem automaticamente\"),\n    db: Session = Depends(get_db),\n    current_user: User = Depends(get_current_user),\n):\n    \"\"\"",
+        "detail": "backend.app.routes.users",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.app.routes.users",
+        "description": "backend.app.routes.users",
+        "peekOfCode": "router = APIRouter(prefix=\"/users\", tags=[\"Users\"])\nUPLOAD_DIR = os.path.join(os.path.dirname(__file__), \"..\", \"..\", \"uploads\", \"avatars\")\nALLOWED_CONTENT_TYPES = {\"image/jpeg\", \"image/png\", \"image/webp\"}\nMAX_FILE_SIZE_MB = 8\nEXTENSIONS = {\n    \"image/jpeg\": \".jpg\",\n    \"image/png\": \".png\",\n    \"image/webp\": \".webp\",\n}\ndef ensure_upload_dir():",
+        "detail": "backend.app.routes.users",
+        "documentation": {}
+    },
+    {
+        "label": "UPLOAD_DIR",
+        "kind": 5,
+        "importPath": "backend.app.routes.users",
+        "description": "backend.app.routes.users",
+        "peekOfCode": "UPLOAD_DIR = os.path.join(os.path.dirname(__file__), \"..\", \"..\", \"uploads\", \"avatars\")\nALLOWED_CONTENT_TYPES = {\"image/jpeg\", \"image/png\", \"image/webp\"}\nMAX_FILE_SIZE_MB = 8\nEXTENSIONS = {\n    \"image/jpeg\": \".jpg\",\n    \"image/png\": \".png\",\n    \"image/webp\": \".webp\",\n}\ndef ensure_upload_dir():\n    os.makedirs(UPLOAD_DIR, exist_ok=True)",
+        "detail": "backend.app.routes.users",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_CONTENT_TYPES",
+        "kind": 5,
+        "importPath": "backend.app.routes.users",
+        "description": "backend.app.routes.users",
+        "peekOfCode": "ALLOWED_CONTENT_TYPES = {\"image/jpeg\", \"image/png\", \"image/webp\"}\nMAX_FILE_SIZE_MB = 8\nEXTENSIONS = {\n    \"image/jpeg\": \".jpg\",\n    \"image/png\": \".png\",\n    \"image/webp\": \".webp\",\n}\ndef ensure_upload_dir():\n    os.makedirs(UPLOAD_DIR, exist_ok=True)\ndef _remove_background(image_bytes: bytes) -> bytes:",
+        "detail": "backend.app.routes.users",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_FILE_SIZE_MB",
+        "kind": 5,
+        "importPath": "backend.app.routes.users",
+        "description": "backend.app.routes.users",
+        "peekOfCode": "MAX_FILE_SIZE_MB = 8\nEXTENSIONS = {\n    \"image/jpeg\": \".jpg\",\n    \"image/png\": \".png\",\n    \"image/webp\": \".webp\",\n}\ndef ensure_upload_dir():\n    os.makedirs(UPLOAD_DIR, exist_ok=True)\ndef _remove_background(image_bytes: bytes) -> bytes:\n    \"\"\"",
+        "detail": "backend.app.routes.users",
+        "documentation": {}
+    },
+    {
+        "label": "EXTENSIONS",
+        "kind": 5,
+        "importPath": "backend.app.routes.users",
+        "description": "backend.app.routes.users",
+        "peekOfCode": "EXTENSIONS = {\n    \"image/jpeg\": \".jpg\",\n    \"image/png\": \".png\",\n    \"image/webp\": \".webp\",\n}\ndef ensure_upload_dir():\n    os.makedirs(UPLOAD_DIR, exist_ok=True)\ndef _remove_background(image_bytes: bytes) -> bytes:\n    \"\"\"\n    Remove o fundo da imagem usando rembg.",
+        "detail": "backend.app.routes.users",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterRequest",
+        "kind": 6,
+        "importPath": "backend.app.schemas.auth",
+        "description": "backend.app.schemas.auth",
+        "peekOfCode": "class RegisterRequest(BaseModel):\n    name: str\n    email: EmailStr\n    password: str\n    user_type: UserType\n    city: str | None = None\n    state: str | None = None\n    # DJ profile fields (opcional — auto-criado no registro)\n    stage_name: str | None = None\n    bio: str | None = None",
+        "detail": "backend.app.schemas.auth",
+        "documentation": {}
+    },
+    {
+        "label": "LoginRequest",
+        "kind": 6,
+        "importPath": "backend.app.schemas.auth",
+        "description": "backend.app.schemas.auth",
+        "peekOfCode": "class LoginRequest(BaseModel):\n    email: EmailStr\n    password: str\nclass TokenResponse(BaseModel):\n    access_token: str\n    token_type: str = \"bearer\"\n    user: UserResponse",
+        "detail": "backend.app.schemas.auth",
+        "documentation": {}
+    },
+    {
+        "label": "TokenResponse",
+        "kind": 6,
+        "importPath": "backend.app.schemas.auth",
+        "description": "backend.app.schemas.auth",
+        "peekOfCode": "class TokenResponse(BaseModel):\n    access_token: str\n    token_type: str = \"bearer\"\n    user: UserResponse",
+        "detail": "backend.app.schemas.auth",
+        "documentation": {}
+    },
+    {
+        "label": "AvailabilityBlockCreateRequest",
+        "kind": 6,
+        "importPath": "backend.app.schemas.availability",
+        "description": "backend.app.schemas.availability",
+        "peekOfCode": "class AvailabilityBlockCreateRequest(BaseModel):\n    start_time: datetime\n    end_time: datetime\n    title: str | None = None\n    notes: str | None = None\nclass AvailabilityBlockUpdateRequest(BaseModel):\n    start_time: datetime\n    end_time: datetime\n    title: str | None = None\n    notes: str | None = None",
+        "detail": "backend.app.schemas.availability",
+        "documentation": {}
+    },
+    {
+        "label": "AvailabilityBlockUpdateRequest",
+        "kind": 6,
+        "importPath": "backend.app.schemas.availability",
+        "description": "backend.app.schemas.availability",
+        "peekOfCode": "class AvailabilityBlockUpdateRequest(BaseModel):\n    start_time: datetime\n    end_time: datetime\n    title: str | None = None\n    notes: str | None = None\nclass AvailabilityBlockResponse(BaseModel):\n    id: str\n    dj_id: str\n    start_time: datetime\n    end_time: datetime",
+        "detail": "backend.app.schemas.availability",
+        "documentation": {}
+    },
+    {
+        "label": "AvailabilityBlockResponse",
+        "kind": 6,
+        "importPath": "backend.app.schemas.availability",
+        "description": "backend.app.schemas.availability",
+        "peekOfCode": "class AvailabilityBlockResponse(BaseModel):\n    id: str\n    dj_id: str\n    start_time: datetime\n    end_time: datetime\n    block_type: AvailabilityBlockType\n    source_booking_id: str | None = None\n    title: str | None = None\n    notes: str | None = None\n    model_config = {\"from_attributes\": True}",
+        "detail": "backend.app.schemas.availability",
+        "documentation": {}
+    },
+    {
+        "label": "DJAvailabilityQueryResponse",
+        "kind": 6,
+        "importPath": "backend.app.schemas.availability",
+        "description": "backend.app.schemas.availability",
+        "peekOfCode": "class DJAvailabilityQueryResponse(BaseModel):\n    dj_profile_id: str\n    requested_start: datetime\n    requested_end: datetime\n    is_available: bool",
+        "detail": "backend.app.schemas.availability",
+        "documentation": {}
+    },
+    {
+        "label": "BookingCreateRequest",
+        "kind": 6,
+        "importPath": "backend.app.schemas.booking",
+        "description": "backend.app.schemas.booking",
+        "peekOfCode": "class BookingCreateRequest(BaseModel):\n    dj_profile_id: str\n    event_name: str\n    event_date: datetime\n    fee_amount: Decimal | None = None\n    start_time: datetime | None = None\n    end_time: datetime | None = None\n    logistics: str | None = None\n    notes: str | None = None\nclass BookingStatusUpdateRequest(BaseModel):",
+        "detail": "backend.app.schemas.booking",
+        "documentation": {}
+    },
+    {
+        "label": "BookingStatusUpdateRequest",
+        "kind": 6,
+        "importPath": "backend.app.schemas.booking",
+        "description": "backend.app.schemas.booking",
+        "peekOfCode": "class BookingStatusUpdateRequest(BaseModel):\n    status: BookingStatus\nclass BookingResponse(BaseModel):\n    id: str\n    dj_id: str\n    club_id: str\n    event_name: str\n    event_date: datetime\n    fee_amount: Decimal | None = None\n    start_time: datetime | None = None",
+        "detail": "backend.app.schemas.booking",
+        "documentation": {}
+    },
+    {
+        "label": "BookingResponse",
+        "kind": 6,
+        "importPath": "backend.app.schemas.booking",
+        "description": "backend.app.schemas.booking",
+        "peekOfCode": "class BookingResponse(BaseModel):\n    id: str\n    dj_id: str\n    club_id: str\n    event_name: str\n    event_date: datetime\n    fee_amount: Decimal | None = None\n    start_time: datetime | None = None\n    end_time: datetime | None = None\n    logistics: str | None = None",
+        "detail": "backend.app.schemas.booking",
+        "documentation": {}
+    },
+    {
+        "label": "BookingMessageCreate",
+        "kind": 6,
+        "importPath": "backend.app.schemas.booking_message",
+        "description": "backend.app.schemas.booking_message",
+        "peekOfCode": "class BookingMessageCreate(BaseModel):\n    message: str = Field(..., min_length=1, max_length=5000)\nclass BookingMessageOut(BaseModel):\n    id: str\n    booking_id: str\n    sender_user_id: str\n    message: str\n    created_at: datetime\n    class Config:\n        from_attributes = True",
+        "detail": "backend.app.schemas.booking_message",
+        "documentation": {}
+    },
+    {
+        "label": "BookingMessageOut",
+        "kind": 6,
+        "importPath": "backend.app.schemas.booking_message",
+        "description": "backend.app.schemas.booking_message",
+        "peekOfCode": "class BookingMessageOut(BaseModel):\n    id: str\n    booking_id: str\n    sender_user_id: str\n    message: str\n    created_at: datetime\n    class Config:\n        from_attributes = True",
+        "detail": "backend.app.schemas.booking_message",
+        "documentation": {}
+    },
+    {
+        "label": "BookingStatusUpdate",
+        "kind": 6,
+        "importPath": "backend.app.schemas.booking_status_history",
+        "description": "backend.app.schemas.booking_status_history",
+        "peekOfCode": "class BookingStatusUpdate(BaseModel):\n    status: str\n    reason: str | None = Field(default=None, max_length=2000)\nclass BookingStatusHistoryOut(BaseModel):\n    id: str\n    booking_id: str\n    from_status: str | None\n    to_status: str\n    changed_by_user_id: str\n    reason: str | None",
+        "detail": "backend.app.schemas.booking_status_history",
+        "documentation": {}
+    },
+    {
+        "label": "BookingStatusHistoryOut",
+        "kind": 6,
+        "importPath": "backend.app.schemas.booking_status_history",
+        "description": "backend.app.schemas.booking_status_history",
+        "peekOfCode": "class BookingStatusHistoryOut(BaseModel):\n    id: str\n    booking_id: str\n    from_status: str | None\n    to_status: str\n    changed_by_user_id: str\n    reason: str | None\n    created_at: datetime\n    class Config:\n        from_attributes = True",
+        "detail": "backend.app.schemas.booking_status_history",
+        "documentation": {}
+    },
+    {
+        "label": "ClubCreateRequest",
+        "kind": 6,
+        "importPath": "backend.app.schemas.club",
+        "description": "backend.app.schemas.club",
+        "peekOfCode": "class ClubCreateRequest(BaseModel):\n    club_name: str\n    description: str | None = None\n    instagram_url: str | None = None\n    city: str | None = None\n    state: str | None = None\nclass ClubResponse(BaseModel):\n    id: str\n    user_id: str\n    club_name: str",
+        "detail": "backend.app.schemas.club",
+        "documentation": {}
+    },
+    {
+        "label": "ClubResponse",
+        "kind": 6,
+        "importPath": "backend.app.schemas.club",
+        "description": "backend.app.schemas.club",
+        "peekOfCode": "class ClubResponse(BaseModel):\n    id: str\n    user_id: str\n    club_name: str\n    description: str | None = None\n    instagram_url: str | None = None\n    city: str | None = None\n    state: str | None = None\n    model_config = {\"from_attributes\": True}",
+        "detail": "backend.app.schemas.club",
+        "documentation": {}
+    },
+    {
+        "label": "DJCreateRequest",
+        "kind": 6,
+        "importPath": "backend.app.schemas.dj",
+        "description": "backend.app.schemas.dj",
+        "peekOfCode": "class DJCreateRequest(BaseModel):\n    stage_name: str\n    bio: str | None = None\n    genres: str | None = None\n    city: str | None = None      # saved on User\n    state: str | None = None     # saved on User\n    instagram_url: str | None = None\n    soundcloud_url: str | None = None\n    youtube_url: str | None = None\nclass DJResponse(BaseModel):",
+        "detail": "backend.app.schemas.dj",
+        "documentation": {}
+    },
+    {
+        "label": "DJResponse",
+        "kind": 6,
+        "importPath": "backend.app.schemas.dj",
+        "description": "backend.app.schemas.dj",
+        "peekOfCode": "class DJResponse(BaseModel):\n    id: str\n    user_id: str\n    stage_name: str\n    bio: str | None = None\n    genres: str | None = None\n    instagram_url: str | None = None\n    soundcloud_url: str | None = None\n    youtube_url: str | None = None\n    # Fields sourced from the related User record",
+        "detail": "backend.app.schemas.dj",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionOut",
+        "kind": 6,
+        "importPath": "backend.app.schemas.subscription",
+        "description": "backend.app.schemas.subscription",
+        "peekOfCode": "class SubscriptionOut(BaseModel):\n    id: str\n    user_id: str\n    plan: PlanType\n    status: SubscriptionStatus\n    trial_ends_at: datetime | None\n    current_period_end: datetime | None\n    stripe_customer_id: str | None\n    stripe_subscription_id: str | None\n    created_at: datetime",
+        "detail": "backend.app.schemas.subscription",
+        "documentation": {}
+    },
+    {
+        "label": "CheckoutSessionOut",
+        "kind": 6,
+        "importPath": "backend.app.schemas.subscription",
+        "description": "backend.app.schemas.subscription",
+        "peekOfCode": "class CheckoutSessionOut(BaseModel):\n    checkout_url: str\nclass PortalSessionOut(BaseModel):\n    portal_url: str",
+        "detail": "backend.app.schemas.subscription",
+        "documentation": {}
+    },
+    {
+        "label": "PortalSessionOut",
+        "kind": 6,
+        "importPath": "backend.app.schemas.subscription",
+        "description": "backend.app.schemas.subscription",
+        "peekOfCode": "class PortalSessionOut(BaseModel):\n    portal_url: str",
+        "detail": "backend.app.schemas.subscription",
+        "documentation": {}
+    },
+    {
+        "label": "UserResponse",
+        "kind": 6,
+        "importPath": "backend.app.schemas.user",
+        "description": "backend.app.schemas.user",
+        "peekOfCode": "class UserResponse(BaseModel):\n    id: str\n    name: str\n    email: str\n    user_type: str\n    city: str | None = None\n    state: str | None = None\n    avatar_url: str | None = None\n    is_active: bool\n    model_config = {\"from_attributes\": True}",
+        "detail": "backend.app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "send_welcome",
+        "kind": 2,
+        "importPath": "backend.app.services.email",
+        "description": "backend.app.services.email",
+        "peekOfCode": "def send_welcome(to: str, name: str, frontend_url: str) -> None:\n    body = _base(\n        _h1(f\"Bem-vindo ao BASSLINE, {name}! 🎛️\")\n        + _p(\"Sua conta foi criada. Você tem <strong>30 dias grátis</strong> para explorar todas as funcionalidades.\")\n        + _p(\"Complete seu perfil agora e comece a usar.\")\n        + _btn(f\"{frontend_url}/auth/login\", \"Acessar minha conta\")\n    )\n    _send(to, \"Bem-vindo ao BASSLINE — 30 dias grátis\", body)\ndef send_new_booking_to_dj(\n    dj_email: str,",
+        "detail": "backend.app.services.email",
+        "documentation": {}
+    },
+    {
+        "label": "send_new_booking_to_dj",
+        "kind": 2,
+        "importPath": "backend.app.services.email",
+        "description": "backend.app.services.email",
+        "peekOfCode": "def send_new_booking_to_dj(\n    dj_email: str,\n    dj_name: str,\n    club_name: str,\n    event_name: str,\n    event_date: str,\n    fee: Optional[str],\n    frontend_url: str,\n) -> None:\n    fee_str = f\"R$ {fee}\" if fee else \"A combinar\"",
+        "detail": "backend.app.services.email",
+        "documentation": {}
+    },
+    {
+        "label": "send_booking_approved_to_club",
+        "kind": 2,
+        "importPath": "backend.app.services.email",
+        "description": "backend.app.services.email",
+        "peekOfCode": "def send_booking_approved_to_club(\n    club_email: str,\n    club_name: str,\n    dj_name: str,\n    event_name: str,\n    event_date: str,\n    frontend_url: str,\n) -> None:\n    body = _base(\n        _badge(\"Proposta aprovada\", \"#22c55e\", \"rgba(34,197,94,0.15)\")",
+        "detail": "backend.app.services.email",
+        "documentation": {}
+    },
+    {
+        "label": "send_booking_refused_to_club",
+        "kind": 2,
+        "importPath": "backend.app.services.email",
+        "description": "backend.app.services.email",
+        "peekOfCode": "def send_booking_refused_to_club(\n    club_email: str,\n    club_name: str,\n    dj_name: str,\n    event_name: str,\n    reason: Optional[str],\n    frontend_url: str,\n) -> None:\n    reason_block = _p(f\"<em>Motivo: {reason}</em>\") if reason else \"\"\n    body = _base(",
+        "detail": "backend.app.services.email",
+        "documentation": {}
+    },
+    {
+        "label": "send_booking_negotiating_to_club",
+        "kind": 2,
+        "importPath": "backend.app.services.email",
+        "description": "backend.app.services.email",
+        "peekOfCode": "def send_booking_negotiating_to_club(\n    club_email: str,\n    club_name: str,\n    dj_name: str,\n    event_name: str,\n    frontend_url: str,\n) -> None:\n    body = _base(\n        _badge(\"Em negociação\", \"#f59e0b\", \"rgba(245,158,11,0.12)\")\n        + _h1(f\"{dj_name} quer negociar\")",
+        "detail": "backend.app.services.email",
+        "documentation": {}
+    },
+    {
+        "label": "send_booking_canceled",
+        "kind": 2,
+        "importPath": "backend.app.services.email",
+        "description": "backend.app.services.email",
+        "peekOfCode": "def send_booking_canceled(\n    to_email: str,\n    to_name: str,\n    canceled_by: str,\n    event_name: str,\n    reason: Optional[str],\n    frontend_url: str,\n) -> None:\n    reason_block = _p(f\"<em>Motivo: {reason}</em>\") if reason else \"\"\n    body = _base(",
+        "detail": "backend.app.services.email",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "backend.app.services.email",
+        "description": "backend.app.services.email",
+        "peekOfCode": "logger = logging.getLogger(__name__)\ndef _get_client():\n    \"\"\"Return a resend-compatible send function, or None if not configured.\"\"\"\n    try:\n        import resend  # type: ignore\n    except ImportError:\n        logger.warning(\"resend not installed — email sending disabled\")\n        return None\n    from app.core.config import settings\n    api_key = getattr(settings, \"RESEND_API_KEY\", \"\")",
+        "detail": "backend.app.services.email",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "backend.app.main",
+        "description": "backend.app.main",
+        "peekOfCode": "app = FastAPI(\n    title=settings.APP_NAME,\n    debug=settings.APP_DEBUG,\n)\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_origin_regex=(\n        r\"https://bass-line.*\\.vercel\\.app\"\n        r\"|https://.*\\.ngrok-free\\.app\"",
+        "detail": "backend.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "UPLOADS_DIR",
+        "kind": 5,
+        "importPath": "backend.app.main",
+        "description": "backend.app.main",
+        "peekOfCode": "UPLOADS_DIR = os.path.join(os.path.dirname(__file__), \"..\", \"uploads\")\nos.makedirs(UPLOADS_DIR, exist_ok=True)\napp.mount(\"/uploads\", StaticFiles(directory=UPLOADS_DIR), name=\"uploads\")\napp.include_router(health_router)\napp.include_router(auth_router)\napp.include_router(users_router)\napp.include_router(djs_router)\napp.include_router(clubs_router)\napp.include_router(bookings_router)\napp.include_router(availability_router)",
+        "detail": "backend.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "_Known",
+        "kind": 6,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _Known:\n    def __init__(self):\n        self.key = []\n        self.value = []\nclass _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    for i in range(len(value)):\n        yield i",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "_String",
+        "kind": 6,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    for i in range(len(value)):\n        yield i\ndef _object_keys(value):\n    for key in value:\n        yield key\ndef _is_array(value):",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "kind": 2,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "def parse(value, *args, **kwargs):\n    json = _json.loads(value, *args, **kwargs)\n    wrapped = []\n    for value in json:\n        wrapped.append(_wrap(value))\n    input = []\n    for value in wrapped:\n        if isinstance(value, _String):\n            input.append(value.value)\n        else:",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "kind": 2,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "def stringify(value, *args, **kwargs):\n    known = _Known()\n    input = []\n    output = []\n    i = int(_index(known, input, value))\n    while i < len(input):\n        output.append(_transform(known, input, input[i]))\n        i += 1\n    return _json.dumps(output, *args, **kwargs)",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    }
+]

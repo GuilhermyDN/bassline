@@ -1,0 +1,438 @@
+{
+  "json_mestre": {
+    "descricao": "Estado completo e atualizado do projeto BASSLINE — SaaS trilateral para DJs, Clubs e Fãs. Backend 100% concluído (Fases 1–9 + Email). Frontend 100% concluído com Stripe, feature gating, TrialBanner, Navbar completa, landing page vendedora, perfil público de DJ, ChatPanel lateral estilo Instagram DMs, fluxo de registro 3-etapas auto-criando perfil.",
+    "como_usar": "Cole este JSON no próximo contexto para continuar exatamente deste ponto.",
+    "ultima_atualizacao": "2026-03-16",
+
+    "projeto": {
+      "nome": "BASSLINE — DJ Booking Platform",
+      "objetivo": "Centralizar EPK, agenda, descoberta e negociação de gigs entre DJs, Clubs e Fãs",
+      "backend": "Python 3.13 + FastAPI",
+      "frontend": "Next.js 15 + React 19 + Tailwind CSS 4 + TypeScript",
+      "deploy_frontend": "Vercel (projeto: bass-line, org: team_Du6Coj1o2COLiqaIU1DIO4Ol)",
+      "deploy_backend": "Railway (planejado) — local com ngrok durante dev",
+      "banco": "PostgreSQL"
+    },
+
+    "stack_backend": {
+      "framework": "FastAPI",
+      "orm": "SQLAlchemy 2",
+      "migrations": "Alembic",
+      "auth": "JWT com python-jose",
+      "hash_senha": "passlib bcrypt + SHA-256 pre-hash para senhas >72 bytes",
+      "server": "uvicorn",
+      "upload": "local (pasta backend/uploads/avatars/) — migrar para Cloudinary no futuro",
+      "background_removal": "rembg 2.0.59 (ONNX, lazy import)",
+      "pagamentos": "stripe 11.4.1",
+      "imagem": "Pillow 11.1.0",
+      "email": "resend 2.10.0 — lazy import, fire-and-forget via BackgroundTasks"
+    },
+
+    "estrutura_backend": {
+      "raiz": "backend/",
+      "pastas": ["app/core", "app/models", "app/schemas", "app/routes", "app/services", "alembic/versions", "uploads/avatars"],
+      "arquivos_principais": [
+        "app/main.py",
+        "app/core/config.py",
+        "app/core/database.py",
+        "app/core/security.py",
+        "app/core/deps.py",
+        "app/models/user.py",
+        "app/models/dj.py",
+        "app/models/club.py",
+        "app/models/booking.py",
+        "app/models/availability.py",
+        "app/models/booking_message.py",
+        "app/models/booking_status_history.py",
+        "app/models/subscription.py",
+        "app/schemas/user.py",
+        "app/schemas/dj.py",
+        "app/routes/health.py",
+        "app/routes/auth.py",
+        "app/routes/users.py",
+        "app/routes/djs.py",
+        "app/routes/club.py",
+        "app/routes/booking.py",
+        "app/routes/availability.py",
+        "app/routes/booking_message.py",
+        "app/routes/stripe_routes.py",
+        "app/services/email.py",
+        "run.py"
+      ]
+    },
+
+    "migrations_alembic": {
+      "ordem": [
+        "a039e36fa9f2_initial_schema.py",
+        "2a37754db766_add_availability_blocks.py",
+        "1bd9a97bb41c_add_booking_messages.py",
+        "3c8e2f1a9d05_add_booking_status_history.py",
+        "4f7a1b2c3d8e_add_subscriptions.py"
+      ],
+      "comando": "alembic upgrade head",
+      "nota": "Rodar no diretório backend/ com o banco PostgreSQL ativo"
+    },
+
+    "fases_backend": {
+      "fase_1": { "nome": "Base do backend", "status": "CONCLUÍDA" },
+      "fase_2": { "nome": "Auth real e perfil do usuário logado", "status": "CONCLUÍDA" },
+      "fase_3": { "nome": "Módulo de booking/proposta", "status": "CONCLUÍDA" },
+      "fase_4": { "nome": "Conflito de agenda e aprovação", "status": "CONCLUÍDA" },
+      "fase_5": { "nome": "Cancelamento e edição de bloqueios", "status": "CONCLUÍDA" },
+      "fase_6": { "nome": "Chat interno por proposta", "status": "CONCLUÍDA" },
+      "fase_7": { "nome": "Histórico de status + motivo de decisão", "status": "CONCLUÍDA" },
+      "fase_8_avatar": {
+        "nome": "Upload de foto + remoção de fundo",
+        "status": "CONCLUÍDA",
+        "entregues": [
+          "POST /users/me/avatar com query param remove_bg=true",
+          "rembg lazy import — retorna HTTP 501 se não instalado",
+          "StaticFiles em /uploads",
+          "python-multipart, rembg, Pillow no requirements.txt"
+        ]
+      },
+      "fase_9_stripe": {
+        "nome": "Stripe — subscriptions + free trial 30 dias",
+        "status": "CONCLUÍDA",
+        "entregues": [
+          "app/models/subscription.py — PlanType, SubscriptionStatus, Subscription",
+          "app/routes/stripe_routes.py — GET /stripe/subscription, POST /stripe/checkout, POST /stripe/portal, POST /stripe/webhook",
+          "migration 4f7a1b2c3d8e_add_subscriptions.py",
+          "GET /stripe/subscription auto-cria TRIALING com trial_ends_at = now + 30d",
+          "POST /stripe/checkout cria Checkout Session com trial_period_days=30",
+          "Webhook trata customer.subscription.created/updated/deleted",
+          "Vars de config: STRIPE_SECRET_KEY, STRIPE_WEBHOOK_SECRET, STRIPE_DJ_PRO_PRICE_ID, STRIPE_CLUB_PRO_PRICE_ID"
+        ]
+      },
+      "fase_10_email": {
+        "nome": "Email transacional via Resend",
+        "status": "CONCLUÍDA",
+        "entregues": [
+          "app/services/email.py — templates HTML responsivos via _base()/_h1()/_p()/_btn()/_badge()/_info_table()",
+          "send_welcome(to, name, frontend_url) — disparado no POST /auth/register",
+          "send_new_booking_to_dj(...) — disparado quando Club cria proposta",
+          "send_booking_approved_to_club(...) — disparado quando DJ aprova proposta",
+          "send_booking_refused_to_club(...) — disparado quando DJ recusa proposta",
+          "send_booking_negotiating_to_club(...) — disparado quando DJ entra em negociação",
+          "send_booking_canceled(...) — disparado para a outra parte quando booking é cancelado",
+          "Todos os envios são fire-and-forget via FastAPI BackgroundTasks",
+          "Se RESEND_API_KEY estiver vazio, silenciosamente pula o envio",
+          "resend==2.10.0 adicionado ao requirements.txt",
+          "RESEND_API_KEY e EMAIL_FROM adicionados ao config.py"
+        ]
+      }
+    },
+
+    "endpoints_disponiveis": {
+      "health": ["GET /health"],
+      "auth": ["POST /auth/register", "POST /auth/login", "GET /auth/me"],
+      "users": ["GET /users/me", "POST /users/me/avatar?remove_bg=false"],
+      "djs": ["POST /djs/me", "GET /djs", "GET /djs/me", "PUT /djs/me", "GET /djs/{id}"],
+      "clubs": ["POST /clubs/me", "GET /clubs", "GET /clubs/{id}", "PUT /clubs/me"],
+      "bookings": ["POST /bookings", "GET /bookings/me/sent", "GET /bookings/me/received", "GET /bookings/{id}", "PATCH /bookings/{id}/status", "GET /bookings/{id}/history"],
+      "availability": ["POST /availability", "GET /availability/me", "DELETE /availability/{id}"],
+      "chat": ["POST /booking-messages/{booking_id}", "GET /booking-messages/{booking_id}"],
+      "stripe": ["GET /stripe/subscription", "POST /stripe/checkout", "POST /stripe/portal", "POST /stripe/webhook"]
+    },
+
+    "correcoes_backend_recentes": {
+      "djs_enrich": "GET /djs, /djs/me, /djs/{id} agora retornam name/city/state/avatar_url do User via joinedload + _enrich()",
+      "dj_create_update_city_state": "POST /djs/me e PUT /djs/me agora salvam city/state no User se fornecidos em DJCreateRequest",
+      "bcrypt_72bytes": "SHA-256 pre-hash em security.py para senhas >72 bytes",
+      "cors": "allow_origin_regex com allow_credentials=False — suporta ngrok + Vercel + localhost",
+      "email_background_tasks": "auth.py e booking.py usam BackgroundTasks para disparar emails sem bloquear resposta"
+    },
+
+    "regras_core": [
+      "Identidade e autorização sempre vêm do token JWT, nunca do body",
+      "Conflito de agenda é sobreposição de intervalo (start < end_outro AND end > start_outro)",
+      "Booking APROVADO cria AvailabilityBlock automático",
+      "Booking CANCELADO remove o AvailabilityBlock automático",
+      "RECUSADO e CANCELADO exigem reason no payload",
+      "sender_user_id e changed_by_user_id sempre vêm do token",
+      "Upload de avatar: NÃO definir Content-Type no fetch — browser seta com boundary automaticamente",
+      "GET /djs retorna campos name/city/state/avatar_url via join com User",
+      "Emails são fire-and-forget — nunca devem falhar silenciosamente nem bloquear a API"
+    ],
+
+    "stack_frontend": {
+      "framework": "Next.js 15 (App Router)",
+      "react": "19",
+      "linguagem": "TypeScript",
+      "css": "Tailwind CSS 4",
+      "icones": "lucide-react",
+      "deploy": "Vercel",
+      "projeto_vercel": { "projectId": "prj_PB7tO3pQsTymnIassBzAr76rwoNR", "orgId": "team_Du6Coj1o2COLiqaIU1DIO4Ol" },
+      "variaveis_env": {
+        "NEXT_PUBLIC_API_URL": "URL do backend (ngrok ou Railway) — obrigatório no Vercel",
+        "nota": "Next.js embute NEXT_PUBLIC_* em build-time — precisa de .env.production ou var no Vercel"
+      },
+      "token_storage": "localStorage — chaves: bassline_token, bassline_user"
+    },
+
+    "estrutura_frontend": {
+      "raiz": "frontend/",
+      "arquivos": [
+        "app/page.tsx — landing page completa (hero, features, how-it-works, pricing preview, testimonials, FAQ, CTA, footer)",
+        "app/djs/page.tsx — descoberta pública de DJs",
+        "app/dj/[slug]/page.tsx — perfil público do DJ (hero, bio, gêneros, links sociais, CTA de contratação)",
+        "app/pricing/page.tsx — página de planos com Stripe checkout (Suspense boundary para useSearchParams)",
+        "app/auth/login/page.tsx",
+        "app/auth/register/page.tsx — fluxo 3-etapas com auto-criação de perfil",
+        "app/dashboard/club/page.tsx — ChatPanel lateral, formulário simplificado",
+        "app/dashboard/dj/page.tsx — ChatPanel lateral substituindo BookingModal",
+        "components/Navbar.tsx — com link Planos + TrialBanner",
+        "components/DJCard.tsx — hover fix, sem overflow, link para /dj/[slug]",
+        "components/DJProfilePanel.tsx — usa dj.avatar_url/city/state como fallback",
+        "components/ChatPanel.tsx — painel lateral estilo Instagram DMs (NOVO)",
+        "components/TrialBanner.tsx — banner flutuante de trial",
+        "components/ProGate.tsx — lock overlay para features pagas",
+        "hooks/useSubscription.ts — hook com isActive, isPro, isExpired, daysLeft",
+        "lib/api.ts — todas as funções de API incluindo Stripe + ngrok-skip-browser-warning header",
+        "next.config.ts — ignoreBuildErrors, remotePatterns",
+        ".env.production — NEXT_PUBLIC_API_URL com ngrok URL"
+      ]
+    },
+
+    "paginas": {
+      "home": {
+        "rota": "/",
+        "status": "PRONTA",
+        "descricao": "Landing page vendedora completa: hero (badge '30 dias grátis · sem cartão', stats), marquee de gêneros, features DJ + mockup, features Club + mockup, how-it-works (3 passos), pricing preview (DJ Pro R$29/mo, Club Pro R$49/mo), 3 depoimentos, FAQ accordion, CTA final, footer"
+      },
+      "djs": { "rota": "/djs", "status": "PRONTA" },
+      "dj_perfil_publico": {
+        "rota": "/dj/[slug]",
+        "status": "PRONTA",
+        "descricao": "Perfil público de DJ acessível por URL amigável (ex: /dj/dj-kairos). Hero 420px com foto/gradiente + overlay + nome em destaque + gêneros + localização. Botões Voltar e Compartilhar (clipboard). Seções: bio, gêneros, links sociais. Sidebar sticky CTA: Club logado → 'Enviar proposta' → /dashboard/club; logado mas não Club → mensagem informativa; anônimo → 'Criar conta e contratar' + 'Já tenho conta'. Estado notFound com fallback UI."
+      },
+      "pricing": {
+        "rota": "/pricing",
+        "status": "PRONTA",
+        "descricao": "Cards com duas camadas: Free (features limitadas + aviso de limite em vermelho) e Pro (features completas com badges 'em breve' para itens futuros). Trial 14 dias. DJ Pro R$29/mo · Club Pro R$49/mo. Banner de trial countdown. Botão 'Começar trial grátis' chama POST /stripe/checkout. Plano ativo destacado verde."
+      },
+      "login": { "rota": "/auth/login", "status": "PRONTA" },
+      "register": { "rota": "/auth/register", "status": "PRONTA" },
+      "dashboard_club": {
+        "rota": "/dashboard/club",
+        "status": "PRONTA",
+        "descricao": "3 tabs: Propostas, Buscar DJs (gated por ProGate quando expirado), Perfil. Banner de expiração quando sub expirada. Formulário de proposta simplificado (event_name, event_date, fee_amount, notes — sem start_time/end_time). Cada booking abre ChatPanel lateral."
+      },
+      "dashboard_dj": {
+        "rota": "/dashboard/dj",
+        "status": "PRONTA",
+        "descricao": "3 tabs: Propostas (ChatPanel lateral com ações Aprovar/Negociar/Recusar, chat, histórico), Agenda (gated por ProGate quando expirado), Perfil (upload de foto). Banner de expiração."
+      }
+    },
+
+    "componentes": {
+      "Navbar": {
+        "status": "PRONTO",
+        "features": ["Logo BASSLINE", "Link DJs", "Link Planos (Zap icon)", "Dashboard/Sair se logado", "Login/Cadastrar se anônimo", "TrialBanner quando logado"]
+      },
+      "DJCard": {
+        "status": "PRONTO",
+        "fixes": ["Hover overflow corrigido — glow ring fora do overflow:hidden container", "Usa dj.avatar_url/city/state direto (sem depender de prop user)"]
+      },
+      "DJProfilePanel": {
+        "status": "PRONTO",
+        "fix": "Usa dj.avatar_url e dj.city/state como fallback quando user prop não fornecida"
+      },
+      "TrialBanner": {
+        "status": "PRONTO",
+        "descricao": "Banner bottom-right durante trial. Mostra dias restantes, link para /pricing, botão dismiss."
+      },
+      "ProGate": {
+        "status": "PRONTO",
+        "descricao": "Wrapper com blur + lock overlay quando hasAccess=false. Aceita prop featureName. Link 'Ver planos' para /pricing."
+      },
+      "ChatPanel": {
+        "arquivo": "components/ChatPanel.tsx",
+        "status": "PRONTO",
+        "descricao": "Painel lateral que desliza da direita (style Instagram DMs). Props: booking, onClose, isDJ?, onStatusChange. Backdrop + slide-in com transform/transition CSS. width: min(420px,100vw). Tabs Chat e Histórico. DJ mode: botões Aprovar/Negociar/Recusar com reason input. Club mode: botão Cancelar proposta com confirmação. Chat: bubbles (purple=me, dark=other), auto-scroll via ref. REGRA DE CHAT: input visível apenas em NEGOCIANDO ou APROVADO. Status PROPOSTA → tela de espera. Status CANCELADO/RECUSADO → 'Conversa encerrada'. IMPORTANTE: deve ser renderizado no nível da página (fora de qualquer div com animation/transform) para que position:fixed funcione corretamente — bug clássico de stacking context com CSS transform."
+      }
+    },
+
+    "registro_3_etapas": {
+      "arquivo": "app/auth/register/page.tsx",
+      "descricao": "Fluxo 3-etapas: Etapa 1 (tipo: DJ/CLUB/FAN), Etapa 2 (nome, email, senha), Etapa 3 (perfil DJ: stage_name+genres+bio | perfil CLUB: club_name+description | FAN pula). Barra de progresso horizontal. Todos os dados enviados em chamada única ao POST /auth/register.",
+      "backend": "POST /auth/register aceita stage_name, bio, genres, club_name, description, city, state e auto-cria DJProfile ou ClubProfile se fornecidos"
+    },
+
+    "lib_api": {
+      "arquivo": "lib/api.ts",
+      "tipos_exportados": ["User", "DJProfile", "ClubProfile", "Booking", "BookingMessage", "AuthResponse", "RegisterPayload", "Subscription", "SubscriptionStatus", "PlanType"],
+      "funcoes": {
+        "auth": ["register", "login", "logout", "getMe", "getStoredUser"],
+        "users": ["uploadAvatar"],
+        "djs": ["listDJs", "getDJ", "getMyDJProfile", "createMyDJProfile", "updateMyDJProfile"],
+        "clubs": ["getMyClubProfile", "createMyClubProfile", "updateMyClubProfile"],
+        "bookings": ["createBooking", "getMySentBookings", "getMyReceivedBookings", "getBooking", "updateBookingStatus", "getBookingHistory"],
+        "chat": ["sendMessage", "getMessages"],
+        "availability": ["listAvailability", "createAvailability", "deleteAvailability"],
+        "stripe": ["getMySubscription", "createCheckoutSession", "createPortalSession", "isSubscriptionActive", "trialDaysLeft"]
+      }
+    },
+
+    "hooks": {
+      "useSubscription": {
+        "arquivo": "hooks/useSubscription.ts",
+        "retorna": ["sub", "loading", "isActive (TRIALING ou ACTIVE)", "isPro (DJ_PRO ou CLUB_PRO)", "isExpired (não ativo)", "daysLeft"]
+      }
+    },
+
+    "feature_gating": {
+      "descricao": "ProGate envolve features com hasAccess={isActive}. Usuários expirados/cancelados veem lock overlay.",
+      "gated_dj_dashboard": "Aba Agenda bloqueada quando !isActive",
+      "gated_club_dashboard": "Aba Buscar DJs bloqueada quando !isActive",
+      "banners_expiracao": "Banner vermelho no topo do dashboard DJ e Club quando isExpired"
+    },
+
+    "stripe_integration": {
+      "modelo": "Subscription com 30 dias de trial gratuito",
+      "fluxo": "GET /stripe/subscription auto-cria TRIALING → usuário acessa /pricing → POST /stripe/checkout → redirect para Stripe Hosted Page → webhook atualiza status",
+      "statuses": ["TRIALING", "ACTIVE", "PAST_DUE", "CANCELED", "EXPIRED"],
+      "planos": ["DJ_FREE", "DJ_PRO", "CLUB_FREE", "CLUB_PRO"],
+      "webhook_events": ["customer.subscription.created", "customer.subscription.updated", "customer.subscription.deleted"]
+    },
+
+    "email_service": {
+      "arquivo": "app/services/email.py",
+      "biblioteca": "resend 2.10.0",
+      "padrao": "Lazy import — servidor sobe mesmo sem resend instalado. Se RESEND_API_KEY vazio, skipa silenciosamente.",
+      "templates": "HTML responsivo com _base(), _h1(), _p(), _btn(), _badge(), _info_table(). Tema escuro com acentos roxo BASSLINE.",
+      "funcoes": [
+        "send_welcome(to, name, frontend_url) — welcome email no registro",
+        "send_new_booking_to_dj(dj_email, dj_name, club_name, event_name, event_date, fee, frontend_url)",
+        "send_booking_approved_to_club(club_email, club_name, dj_name, event_name, event_date, fee, frontend_url)",
+        "send_booking_refused_to_club(club_email, club_name, dj_name, event_name, reason, frontend_url)",
+        "send_booking_negotiating_to_club(club_email, club_name, dj_name, event_name, frontend_url)",
+        "send_booking_canceled(to_email, to_name, canceled_by, event_name, reason, frontend_url)"
+      ],
+      "disparadores": {
+        "POST /auth/register": "send_welcome",
+        "POST /bookings": "send_new_booking_to_dj",
+        "PATCH /bookings/{id}/status APROVADO": "send_booking_approved_to_club",
+        "PATCH /bookings/{id}/status RECUSADO": "send_booking_refused_to_club",
+        "PATCH /bookings/{id}/status NEGOCIANDO": "send_booking_negotiating_to_club",
+        "PATCH /bookings/{id}/status CANCELADO": "send_booking_canceled (para a outra parte)"
+      }
+    },
+
+    "perfil_publico_dj": {
+      "arquivo": "app/dj/[slug]/page.tsx",
+      "rota": "/dj/[slug]",
+      "slug_logic": "slugify(stage_name) — lowercase + NFD normalize + remove diacritics + replace non-alphanumeric with hyphens",
+      "dados": "Busca todos via listDJs() e filtra pelo slug client-side",
+      "hero": "Foto 420px com overlay gradiente + stage_name + gêneros + localização",
+      "acoes": "Botão Voltar (router.back) + Botão Compartilhar (navigator.clipboard + feedback 'Copiado!')",
+      "conteudo": "Bio, gêneros (pills), links sociais (Instagram, SoundCloud, YouTube)",
+      "sidebar_cta": {
+        "club_logado": "Botão 'Enviar proposta' → /dashboard/club",
+        "logado_nao_club": "Mensagem explicativa",
+        "anonimo": "Botão 'Criar conta e contratar' + link 'Já tenho conta'"
+      }
+    },
+
+    "landing_page": {
+      "arquivo": "app/page.tsx",
+      "secoes": [
+        "Hero — badge '30 dias grátis · sem cartão', headline, subheadline, CTAs, 3 stats",
+        "Marquee — animação CSS infinita com gêneros musicais",
+        "Features DJ — 4 cards + fake dashboard mockup",
+        "Features Club — 4 cards + fake DJ search mockup",
+        "How it works — 3 passos numerados",
+        "Pricing preview — DJ Pro R$29/mo + Club Pro R$49/mo com checklists",
+        "Testimonials — 3 cards com avatar, nome, tipo, depoimento",
+        "FAQ — accordion com FaqItem component (useState open/close), 5 perguntas",
+        "CTA final — headline + 2 botões",
+        "Footer — logo, tagline, links agrupados"
+      ]
+    },
+
+    "variaveis_env": {
+      "backend_.env": {
+        "SECRET_KEY": "sua_chave_secreta_jwt",
+        "DATABASE_URL": "postgresql://user:pass@host/db",
+        "FRONTEND_URL": "https://bass-line-ten.vercel.app",
+        "API_BASE_URL": "http://localhost:8001 (ou URL Railway em prod)",
+        "STRIPE_SECRET_KEY": "sk_test_... (pegar em Stripe → Desenvolvedores → Chaves da API)",
+        "STRIPE_WEBHOOK_SECRET": "whsec_... (pegar no endpoint criado no Stripe)",
+        "STRIPE_DJ_PRO_PRICE_ID": "price_... (criar produto DJ Pro no Stripe → Catálogo de produtos)",
+        "STRIPE_CLUB_PRO_PRICE_ID": "price_... (criar produto Club Pro no Stripe → Catálogo de produtos)",
+        "RESEND_API_KEY": "re_... (criar conta em resend.com → API Keys)",
+        "EMAIL_FROM": "BASSLINE <no-reply@bassline.app>"
+      },
+      "frontend_.env.production": {
+        "NEXT_PUBLIC_API_URL": "https://SEU_NGROK.ngrok-free.app (ou URL Railway)"
+      }
+    },
+
+    "free_vs_pro": {
+      "trial": "14 dias grátis, sem cartão (mudado de 30 para 14 dias)",
+      "dj_free": ["Perfil público com foto e bio", "Aparecer na busca de clubs", "Receber propostas", "Chat básico"],
+      "dj_pro_gates": ["Agenda ilimitada (Free: 3 blocks)", "Badge PRO na busca", "Press Kit e Riders (em breve)", "Analytics (em breve)"],
+      "club_free": ["Visualizar DJs", "Máx 3 propostas/mês", "Chat básico"],
+      "club_pro_gates": ["Propostas ilimitadas", "Filtros avançados de busca", "Analytics (em breve)", "Google Calendar (em breve)"],
+      "nota_backend": "Limite de 3 propostas/mês para Club Free ainda não implementado no backend — atualmente apenas o DJ Search tab é bloqueado via ProGate. Implementar contador no POST /bookings como próxima melhoria."
+    },
+
+    "pendencias": [
+      "CRÍTICO: Adicionar price_... (não prod_...) do Stripe em backend/.env — STRIPE_DJ_PRO_PRICE_ID e STRIPE_CLUB_PRO_PRICE_ID",
+      "CRÍTICO: Fazer deploy do backend no Railway + atualizar NEXT_PUBLIC_API_URL no Vercel",
+      "CRÍTICO: Rodar vercel --prod (frontend/)",
+      "Rodar: cd backend && alembic upgrade head",
+      "Rodar: cd backend && pip install -r requirements.txt",
+      "Implementar limite de 3 propostas/mês para Club Free no POST /bookings",
+      "Migrar upload de avatar de local para Cloudinary",
+      "Verificar domínio no Resend para email no-reply@bassline.app"
+    ],
+
+    "proximas_fases": [
+      "Fase 11 — Deploy completo: Railway para backend + atualizar NEXT_PUBLIC_API_URL no Vercel",
+      "Fase 12 — Migrar avatar upload para Cloudinary",
+      "Fase 13 — Google Calendar integration",
+      "Fase 14 — Upload de press kit / riders (PDF/imagem)",
+      "Fase 15 — Dashboard de analytics para DJ e Club",
+      "Fase 16 — SEO: sitemap.xml + metadata dinâmica nas páginas de perfil DJ"
+    ],
+
+    "comandos": {
+      "backend_local": [
+        "cd backend",
+        "pip install -r requirements.txt",
+        "alembic upgrade head",
+        "python run.py"
+      ],
+      "backend_ngrok": [
+        "ngrok http 8001",
+        "Atualizar NEXT_PUBLIC_API_URL no frontend/.env.production com nova URL ngrok",
+        "Rodar: cd frontend && vercel --prod"
+      ],
+      "frontend_deploy": [
+        "cd frontend",
+        "vercel login",
+        "vercel --prod"
+      ]
+    },
+
+    "design_system": {
+      "tema": "Dark — fundo quase preto com acentos neon roxo/violeta",
+      "variaveis_css": {
+        "--bg-primary": "#07070f",
+        "--bg-card": "#0e0e1a",
+        "--bg-card-hover": "#12121f",
+        "--text-primary": "#f0f0f8",
+        "--text-secondary": "#a0a0bc",
+        "--text-muted": "#5a5a78",
+        "--purple-neon": "#a855f7",
+        "--purple-bright": "#c084fc",
+        "--purple-dark": "#7c3aed",
+        "--border": "rgba(124,58,237,0.18)",
+        "--border-hover": "rgba(168,85,247,0.35)"
+      },
+      "gradiente_principal": "linear-gradient(135deg, #7c3aed, #9333ea)",
+      "gradiente_texto": "linear-gradient(135deg, #a855f7, #7c3aed)"
+    }
+  }
+}
